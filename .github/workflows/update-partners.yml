@@ -5,12 +5,17 @@ on:
     - cron: '0 0 * * 0'  # Tous les dimanches à minuit
   workflow_dispatch:  # Permet de lancer manuellement
 
+permissions:
+  contents: write
+
 jobs:
   update-partners:
     runs-on: ubuntu-latest
     
     steps:
     - uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Node.js
       uses: actions/setup-node@v2
@@ -59,7 +64,7 @@ jobs:
     
     - name: Commit and push if changed
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add the-corner-partners.json last_update.txt
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update partners data" && git push) 
