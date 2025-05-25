@@ -1,0 +1,23 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnement Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Logs
+*.log
+last_update.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dossiers parents
+../*/ 

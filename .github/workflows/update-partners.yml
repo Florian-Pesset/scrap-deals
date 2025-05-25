@@ -1,0 +1,57 @@
+name: Update Partners Data
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Tous les dimanches à minuit
+  workflow_dispatch:  # Permet de lancer manuellement
+
+jobs:
+  update-partners:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Run update script
+      run: python update_partners.py
+    
+    - name: Check for errors
+      id: check_errors
+      run: |
+        if [ -f error.log ]; then
+          echo "::set-output name=has_error::true"
+          ERROR_CONTENT=$(cat error.log)
+          echo "::set-output name=error_message::$ERROR_CONTENT"
+        fi
+    
+    - name: Send email notification on error
+      if: steps.check_errors.outputs.has_error == 'true'
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: ${{secrets.SMTP_SERVER}}
+        server_port: ${{secrets.SMTP_PORT}}
+        username: ${{secrets.SMTP_USERNAME}}
+        password: ${{secrets.SMTP_PASSWORD}}
+        subject: "⚠️ Erreur mise à jour partenaires The Corner"
+        body: |
+          Une erreur est survenue lors de la mise à jour des données des partenaires:
+          ${{ steps.check_errors.outputs.error_message }}
+        to: ${{secrets.NOTIFICATION_EMAIL}}
+        from: GitHub Actions
+    
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add the-corner-partners.json last_update.txt
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update partners data" && git push) 

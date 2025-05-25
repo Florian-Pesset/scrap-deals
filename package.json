@@ -1,0 +1,16 @@
+{
+  "name": "the-corner-scraper",
+  "version": "1.0.0",
+  "description": "Scraper pour extraire les partenaires The Corner de Boursobank",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^22.1.0",
+    "node-fetch": "^2.6.9"
+  }
+}
