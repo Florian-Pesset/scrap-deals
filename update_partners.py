@@ -1,24 +1,21 @@
-import requests
+import subprocess
 import json
 import os
 from datetime import datetime
 
 def check_and_update_partners():
     try:
-        # URL de la page The Corner (à remplacer par l'URL réelle)
-        url = "VOTRE_URL_SOURCE"
+        # Exécuter le scraper Node.js
+        subprocess.run(['node', 'scraper.js'], check=True)
         
-        # Effectuer la requête
-        response = requests.get(url)
-        response.raise_for_status()
-        
-        # Vérifier si le contenu est présent
-        if not response.text:
-            raise Exception("Le contenu de la page est vide")
+        # Vérifier si le fichier JSON existe et n'est pas vide
+        if not os.path.exists('the-corner-partners.json'):
+            raise Exception("Le fichier JSON n'a pas été créé")
             
-        # Sauvegarder les données
-        with open('the-corner-partners.json', 'w', encoding='utf-8') as f:
-            json.dump(response.json(), f, ensure_ascii=False, indent=2)
+        with open('the-corner-partners.json', 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            if not data:
+                raise Exception("Le fichier JSON est vide")
             
         # Créer un fichier de timestamp pour le suivi
         with open('last_update.txt', 'w') as f:
