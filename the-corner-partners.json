@@ -1,0 +1,1140 @@
+{
+  "boursobank": [
+    {
+      "merchant": "Auchan",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/auchan?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Carrefour",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/carrefour?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Deliveroo",
+      "discount": "-4%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/deliveroo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Magasins U",
+      "discount": "-4%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/magasins-u?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Monoprix",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/monoprix?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "TheFork",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/thefork?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Uber Eats",
+      "discount": "-4%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/uber-eats?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Uber One",
+      "discount": "3 mois offerts*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/uber-one?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Asos",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/asos?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Beauté Privée",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/beaut-prive?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Bonobo",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/bonobo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Boohoo",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/boohoo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "BOOHOO MAN",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/boohoo-man?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Bréal",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/bral?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Cache Cache",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/cache-cache?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Cdiscount",
+      "discount": "-4%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/cdiscount?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Celio",
+      "discount": "-6%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/celio?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Converse",
+      "discount": "-6%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/converse?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Cultura",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/cultura?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Cyrillus",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/cyrillus?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Etam",
+      "discount": "-15%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/etam?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Fnac",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/fnac?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Galeries Lafayette",
+      "discount": "-6%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/galeries-lafayette?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Gemo",
+      "discount": "-9%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/gemo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "H&M",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/hm?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "HP",
+      "discount": "-5% à -30%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/hp?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Interflora",
+      "discount": "-15%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/interflora?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "La Redoute",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/la-redoute?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Le BHV",
+      "discount": "-6%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/le-bhv?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Marionnaud",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/marionnaud?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Primark",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/primark?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Rituals",
+      "discount": "-9%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/rituals?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Samsung",
+      "discount": "-25%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/samsung?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Samsung",
+      "discount": "Jusqu'à -35%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/samsung?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Sarenza",
+      "discount": "-8%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/sarenza?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Showroom Privé",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/showroom-priv?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Spartoo",
+      "discount": "-15%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/spartoo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Swarovski",
+      "discount": "-15%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/swarovski?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Yves Rocher",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/yves-rocher?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Zalando",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/zalando?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Alinéa",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/alina?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "AMPM",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/ampm?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Brico Cash",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/brico-cash?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Bricomarché",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/bricomarch?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Bricorama",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/bricorama?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Castorama",
+      "discount": "-6%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/castorama?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Conforama",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/conforama?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Darty",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/darty?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "IKEA",
+      "discount": "-4%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/ikea?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Jardiland",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/jardiland?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Leroy Merlin",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/leroy-merlin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Les Gentlemen du Déménagement",
+      "discount": "-10%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/les-gentlemen-du-dmnagement?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Maisons du Monde",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/maisons-du-monde?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Nature & Découvertes",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/nature--dcouvertes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Otovo",
+      "discount": "-5%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/otovo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Selency",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/selency?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "TRUFFAUT",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/truffaut?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Verisure",
+      "discount": "-300€*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/verisure?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Adidas",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/adidas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Decathlon",
+      "discount": "-4%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Garmin",
+      "discount": "jusqu'à -25%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/garmin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "I-RUN",
+      "discount": "-5%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/i-run?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Keep Cool",
+      "discount": "-290€*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/keep-cool?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "L'Orange Bleue",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/lorange-bleue?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Nike",
+      "discount": "De -6% à -10%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/nike?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Samsung Watch",
+      "discount": "-10%* minimum*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/samsung-watch?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Strava",
+      "discount": "De -17% à -22%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/strava?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Abritel",
+      "discount": "-4%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/abritel?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Airbnb",
+      "discount": "-5%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/airbnb?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Alamo – Enterprise – National",
+      "discount": "-5% à -15%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/alamo--enterprise--national?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Azureva",
+      "discount": "-10%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/azureva?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Belambra",
+      "discount": "-8%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/belambra?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Booking.com",
+      "discount": "-4%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/bookingcom?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Center Parcs",
+      "discount": "-5% à -30%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/center-parcs?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Ector",
+      "discount": "-10%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/ector?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Europcar",
+      "discount": "-10% à -20%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/europcar?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Expedia",
+      "discount": "-5% à -7%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/expedia?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Flixbus",
+      "discount": "-6%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/flixbus?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Fram",
+      "discount": "-9%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/fram?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Hotels.com",
+      "discount": "-6%*",
+      "offerType": "Cashback",
+      "link": "https://clients.boursobank.com/offres/hotelscom?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Jet Tours",
+      "discount": "-9%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/jet-tours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Lastminute.com",
+      "discount": "-6%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/lastminutecom?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "MisterFly",
+      "discount": "Jusqu'à -9%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/misterfly?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "MMV",
+      "discount": "-8% à -35%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/mmv?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Mondial Tourisme",
+      "discount": "-9%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/mondial-tourisme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Netski",
+      "discount": "-10% à -15%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/netski?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Odalys",
+      "discount": "-8% à -10%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/odalys?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Ovoyages",
+      "discount": "-9%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/ovoyages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Promoséjours",
+      "discount": "-9%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/promosjours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Promovacances",
+      "discount": "-9%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/promovacances?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "VTF",
+      "discount": "-7% à -10%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/vtf?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "VVF Villages",
+      "discount": "-8% à -10%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/vvf-villages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Aquarium de Paris",
+      "discount": "Jusqu'à -18%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/aquarium-de-paris?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Astérix",
+      "discount": "Jusqu'à -14%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/astrix?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "CGR Cinémas",
+      "discount": "7,50€*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/cgr-cinmas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Cinéchèque",
+      "discount": "6,95€*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/cinchque?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Cobac Parc",
+      "discount": "De -6% à -8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/cobac-parc?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Cobac Parc + Aqua'Fun Park",
+      "discount": "-9%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/cobac-parc--aquafun-park?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Fabrikus World",
+      "discount": "De -11% à -15%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/fabrikus-world?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "France Miniature",
+      "discount": "-5% à -25%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/france-miniature?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Grand Aquarium de Saint Malo",
+      "discount": "-8% à -11%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/grand-aquarium-de-saint-malo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Grévin",
+      "discount": "-25%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/grvin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Jardin d'Acclimatation",
+      "discount": "-21%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/jardin-dacclimatation?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Kinepolis",
+      "discount": "8,75€*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/kinepolis?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "La Cité de l'Espace",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/la-cit-de-lespace?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Mer de sable",
+      "discount": "-19%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/mer-de-sable?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "MK2",
+      "discount": "7,20€*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/mk2?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Nausicaá",
+      "discount": "jusqu'à -20%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/nausica?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Océanopolis",
+      "discount": "Jusqu'à -10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/ocanopolis?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Parc de Branféré",
+      "discount": "Jusqu'à -14%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/parc-de-branfr?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Parc Sainte Croix",
+      "discount": "Jusqu'à -20%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/parc-sainte-croix?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Parc Spirou",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/parc-spirou?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Pathé",
+      "discount": "9,99€*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/path?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Planète Sauvage",
+      "discount": "-12% à -18%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/plante-sauvage?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Port Aventura World",
+      "discount": "Jusqu'à -25%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/port-aventura-world?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Safari de Peaugres",
+      "discount": "-16%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/safari-de-peaugres?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Terra Botanica",
+      "discount": "-9% à -22%**",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/terra-botanica?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "UGC",
+      "discount": "8,70€*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/ugc?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Vulcania",
+      "discount": "Jusqu'à -9%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/vulcania?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Walibi Rhône-Alpes",
+      "discount": "-17%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/walibi-rhne-alpes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Wow Safari Thoiry",
+      "discount": "De -12% à 15%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/wow-safari-thoiry?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Zoo d'amnéville",
+      "discount": "-25% à -29%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/zoo-damnville?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Zoo de la flèche",
+      "discount": "-13% à -16%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/zoo-de-la-flche?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Aubert",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/aubert?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Du Pareil au Même",
+      "discount": "-9%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/du-pareil-au-mme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Jacadi",
+      "discount": "-12%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/jacadi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "King Jouet",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/king-jouet?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "La Grande Récré",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/la-grande-rcr?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Natalys",
+      "discount": "-9%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/natalys?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Okaïdi",
+      "discount": "-12%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/okadi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Orchestra",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/orchestra?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Oxybul",
+      "discount": "-12%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/oxybul?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Petit Bateau",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/petit-bateau?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Sergent Major",
+      "discount": "-9%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/sergent-major?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Vertbaudet",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/vertbaudet?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Babbel",
+      "discount": "-20% à -30%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/babbel?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Cafeyn",
+      "discount": "3 mois offerts*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/cafeyn?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Deezer Premium",
+      "discount": "De -22% à -37%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/deezer-premium?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Nintendo",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/nintendo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Sony PlayStation® Store",
+      "discount": "-7%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/sony-playstation-store?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Steam",
+      "discount": "-4%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/steam?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Wonderbox",
+      "discount": "-16%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/wonderbox?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Xbox",
+      "discount": "-8%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/xbox?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Ayvens - LLD véhicules neufs",
+      "discount": "-300€**",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/ayvens---lld-vhicules-neufs?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Ayvens - Véhicules d'occasion",
+      "discount": "-10% ou -1000€**",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/ayvens---vhicules-doccasion?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Eplaque - immatriculation",
+      "discount": "-15%*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/eplaque---immatriculation?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "lepermislibre - Code",
+      "discount": "4,99€*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/lepermislibre---code?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "lepermislibre - Permis",
+      "discount": "799€ -100€*",
+      "offerType": "Remise immédiate",
+      "link": "https://clients.boursobank.com/offres/lepermislibre---permis?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Motoblouz",
+      "discount": "-10%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/motoblouz?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    },
+    {
+      "merchant": "Uber VTC",
+      "discount": "-4%*",
+      "offerType": "Bon d'achat",
+      "link": "https://clients.boursobank.com/offres/uber-vtc?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "boursobank"
+    }
+  ],
+  "macif": [
+    {
+      "merchant": "function OptanonWrapper",
+      "discount": "-66%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/function-optanonwrapper?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "Jen profite",
+      "discount": "-42%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/jen-profite?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "sur le sjour de vos enfants",
+      "discount": "-50%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/sur-le-sjour-de-vos-enfants?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "sur les vlos  assistance lectrique mme sur les promos",
+      "discount": "-17%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/sur-les-vlos-assistance-lectrique-mme-sur-les-promos?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "sur les peintures Tollens en ligne et en magasin mme sur les promos",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/sur-les-peintures-tollens-en-ligne-et-en-magasin-mme-sur-les-promos?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "sur la JBL Partybox 110",
+      "discount": "-42%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/sur-la-jbl-partybox-110?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "sur les peintures Tollens",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/sur-les-peintures-tollens?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "Offre spciale  SOLDES",
+      "discount": "-30%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/offre-spciale-soldes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "Plus que",
+      "discount": "-20%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/plus-que?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "Offre spciale  SOLDES",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/offre-spciale-soldes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "Offre spciale  SOLDES",
+      "discount": "-50%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/offre-spciale-soldes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    },
+    {
+      "merchant": "Contact",
+      "discount": "71%",
+      "offerType": "Réduction",
+      "link": "https://www.macifavantages.fr/offres/contact?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif"
+    }
+  ]
+}
