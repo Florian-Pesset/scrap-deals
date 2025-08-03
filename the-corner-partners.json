@@ -2253,21 +2253,21 @@
       "page": 1
     },
     {
-      "merchant": "Auto Avantages",
-      "discount": "Jusqu’à -40%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’un véhicule",
-      "link": "https://www.macifavantages.fr/offres/auto-avantages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Auto & Moto",
-      "page": 1
-    },
-    {
       "merchant": "BOLID'STER",
       "discount": "-10%",
       "offerType": "Réduction",
       "description": "sur les jeans et vestes en ARMALITH®",
       "link": "https://www.macifavantages.fr/offres/bolidster?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Auto & Moto",
+      "page": 1
+    },
+    {
+      "merchant": "Auto Avantages",
+      "discount": "Jusqu’à -40%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’un véhicule",
+      "link": "https://www.macifavantages.fr/offres/auto-avantages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Auto & Moto",
       "page": 1
@@ -2953,16 +2953,6 @@
       "page": 1
     },
     {
-      "merchant": "Carrefour",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/carrefour?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Alimentation & vins",
-      "page": 1
-    },
-    {
       "merchant": "Magasins U",
       "discount": "-4%",
       "offerType": "Réduction",
@@ -2978,6 +2968,16 @@
       "offerType": "Réduction",
       "description": "sur une sélection de grands vins, même sur les promos",
       "link": "https://www.macifavantages.fr/offres/topwines-gironde-et-gascogne?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Alimentation & vins",
+      "page": 1
+    },
+    {
+      "merchant": "Carrefour",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/carrefour?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Alimentation & vins",
       "page": 1
@@ -3733,16 +3733,6 @@
       "page": 1
     },
     {
-      "merchant": "Carrefour",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/carrefour?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "Jardiland",
       "discount": "-8%",
       "offerType": "Réduction",
@@ -3878,6 +3868,16 @@
       "offerType": "Réduction",
       "description": "sur une séance photo ou un cours photo",
       "link": "https://www.macifavantages.fr/offres/lashootingbox?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Carrefour",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/carrefour?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
