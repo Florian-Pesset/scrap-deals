@@ -1903,16 +1903,6 @@
       "page": 1
     },
     {
-      "merchant": "Nikon",
-      "discount": "-10% à -25%",
-      "offerType": "Réduction",
-      "description": "sur les appareils et accessoires photos",
-      "link": "https://www.macifavantages.fr/offres/nikon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Recommerce",
       "discount": "-5% et -10%",
       "offerType": "Réduction",
@@ -2088,6 +2078,16 @@
       "offerType": "Réduction",
       "description": "sur les smartphones, produits high-tech et électroménager",
       "link": "https://www.macifavantages.fr/offres/samsung?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Nikon",
+      "discount": "-10% à -25%",
+      "offerType": "Réduction",
+      "description": "sur les appareils et accessoires photos",
+      "link": "https://www.macifavantages.fr/offres/nikon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
