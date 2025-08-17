@@ -1833,16 +1833,6 @@
       "page": 1
     },
     {
-      "merchant": "Sony",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur une sélection d’appareils photo, téléviseurs, casques audio",
-      "link": "https://www.macifavantages.fr/offres/sony?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Braun",
       "discount": "-5% ou -20%",
       "offerType": "Réduction",
@@ -1903,36 +1893,6 @@
       "page": 1
     },
     {
-      "merchant": "Recommerce",
-      "discount": "-5% et -10%",
-      "offerType": "Réduction",
-      "description": "sur les appareils électroniques reconditionnés",
-      "link": "https://www.macifavantages.fr/offres/recommerce?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "Dell",
-      "discount": "-5% et -10%",
-      "offerType": "Réduction",
-      "description": "sur les écrans, les ordinateurs et les accessoires",
-      "link": "https://www.macifavantages.fr/offres/dell?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "Dyson",
-      "discount": "-6%",
-      "offerType": "Réduction",
-      "description": "sur les technologies Dyson",
-      "link": "https://www.macifavantages.fr/offres/dyson?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Nutribullet",
       "discount": "-5% ou -20%",
       "offerType": "Réduction",
@@ -1983,31 +1943,11 @@
       "page": 1
     },
     {
-      "merchant": "Bosch",
-      "discount": "-5% et -25%",
-      "offerType": "Réduction",
-      "description": "sur les appareils électroménagers Bosch",
-      "link": "https://www.macifavantages.fr/offres/bosch?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Siemens",
       "discount": "-5% et – 25%",
       "offerType": "Réduction",
       "description": "sur les appareils électroménagers Siemens",
       "link": "https://www.macifavantages.fr/offres/siemens?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "HP",
-      "discount": "-5% à -30%",
-      "offerType": "Réduction",
-      "description": "sur les ordinateurs, imprimantes et accessoires",
-      "link": "https://www.macifavantages.fr/offres/hp?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2063,16 +2003,6 @@
       "page": 1
     },
     {
-      "merchant": "LG",
-      "discount": "-15% à -25%",
-      "offerType": "Réduction",
-      "description": "sur les TV, ordinateurs, appareils électroménagers et audio/vidéo",
-      "link": "https://www.macifavantages.fr/offres/lg?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Samsung",
       "discount": "-10% à -20%",
       "offerType": "Réduction",
@@ -2088,6 +2018,76 @@
       "offerType": "Réduction",
       "description": "sur les appareils et accessoires photos",
       "link": "https://www.macifavantages.fr/offres/nikon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Sony",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur une sélection d’appareils photo, téléviseurs, casques audio",
+      "link": "https://www.macifavantages.fr/offres/sony?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Recommerce",
+      "discount": "-5% et -10%",
+      "offerType": "Réduction",
+      "description": "sur les appareils électroniques reconditionnés",
+      "link": "https://www.macifavantages.fr/offres/recommerce?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Dyson",
+      "discount": "-6%",
+      "offerType": "Réduction",
+      "description": "sur les technologies Dyson",
+      "link": "https://www.macifavantages.fr/offres/dyson?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Dell",
+      "discount": "-5% et -10%",
+      "offerType": "Réduction",
+      "description": "sur les écrans, les ordinateurs et les accessoires",
+      "link": "https://www.macifavantages.fr/offres/dell?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Bosch",
+      "discount": "-5% et -25%",
+      "offerType": "Réduction",
+      "description": "sur les appareils électroménagers Bosch",
+      "link": "https://www.macifavantages.fr/offres/bosch?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "HP",
+      "discount": "-5% à -30%",
+      "offerType": "Réduction",
+      "description": "sur les ordinateurs, imprimantes et accessoires",
+      "link": "https://www.macifavantages.fr/offres/hp?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "LG",
+      "discount": "-15% à -20%",
+      "offerType": "Réduction",
+      "description": "sur les TV, ordinateurs, appareils électroménagers et audio/vidéo",
+      "link": "https://www.macifavantages.fr/offres/lg?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -3163,16 +3163,6 @@
       "page": 1
     },
     {
-      "merchant": "Dyson",
-      "discount": "-6%",
-      "offerType": "Réduction",
-      "description": "sur les technologies Dyson",
-      "link": "https://www.macifavantages.fr/offres/dyson?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Okaidi",
       "discount": "-12%",
       "offerType": "Réduction",
@@ -3368,6 +3358,16 @@
       "offerType": "Réduction",
       "description": "sur tous les programmes",
       "link": "https://www.macifavantages.fr/offres/mta-coaching?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Dyson",
+      "discount": "-6%",
+      "offerType": "Réduction",
+      "description": "sur les technologies Dyson",
+      "link": "https://www.macifavantages.fr/offres/dyson?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3893,13 +3893,63 @@
       "page": 1
     },
     {
+      "merchant": "Nike",
+      "discount": "6% et 10%",
+      "offerType": "Réduction",
+      "description": "remboursés sur les vêtements, chaussures et accessoires",
+      "link": "https://www.macifavantages.fr/offres/nike?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "adidas",
+      "discount": "-5% et -15%",
+      "offerType": "Réduction",
+      "description": "sur une sélection de vêtements, chaussures et accessoires",
+      "link": "https://www.macifavantages.fr/offres/adidas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Netski",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur la location de matériel de ski",
+      "link": "https://www.macifavantages.fr/offres/netski?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Skiset",
+      "discount": "-8% à -15%",
+      "offerType": "Réduction",
+      "description": "sur la location de matériel de ski",
+      "link": "https://www.macifavantages.fr/offres/skiset?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
       "merchant": "Shared",
       "discount": "2 mois offerts",
       "offerType": "Réduction",
       "description": "sur l’abonnement Premium",
       "link": "https://www.macifavantages.fr/offres/shared?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
-      "category": "Santé & autonomie",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Skimium",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur la location de matériel de ski",
+      "link": "https://www.macifavantages.fr/offres/skimium?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
       "page": 1
     },
     {
@@ -3909,7 +3959,17 @@
       "description": "sur un monte-escaliers ou une plate-forme",
       "link": "https://www.macifavantages.fr/offres/stannah?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
-      "category": "Santé & autonomie",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Intersport",
+      "discount": "-7%",
+      "offerType": "Réduction",
+      "description": "sur la location de matériel de ski",
+      "link": "https://www.macifavantages.fr/offres/intersport?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
       "page": 1
     },
     {
@@ -3919,7 +3979,7 @@
       "description": "sur tous les programmes",
       "link": "https://www.macifavantages.fr/offres/mta-coaching?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
-      "category": "Santé & autonomie",
+      "category": "Sport & Bien Etre",
       "page": 1
     },
     {
@@ -3929,7 +3989,7 @@
       "description": "",
       "link": "https://www.macifavantages.fr/offres/domitys?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
-      "category": "Santé & autonomie",
+      "category": "Sport & Bien Etre",
       "page": 1
     }
   ]
