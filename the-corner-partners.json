@@ -1633,16 +1633,6 @@
       "page": 1
     },
     {
-      "merchant": "Hotel pour tous",
-      "discount": "-12%",
-      "offerType": "Réduction",
-      "description": "sur les séjours",
-      "link": "https://www.macifavantages.fr/offres/hotel-pour-tous?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Goélia",
       "discount": "-8% ou -10%",
       "offerType": "Réduction",
@@ -1763,6 +1753,16 @@
       "page": 1
     },
     {
+      "merchant": "Hotel pour tous",
+      "discount": "-12%",
+      "offerType": "Réduction",
+      "description": "sur les séjours",
+      "link": "https://www.macifavantages.fr/offres/hotel-pour-tous?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
       "merchant": "Adagio",
       "discount": "-7% ou -10%",
       "offerType": "Réduction",
@@ -1793,16 +1793,6 @@
       "page": 1
     },
     {
-      "merchant": "Tefal",
-      "discount": "-5% ou -15%",
-      "offerType": "Réduction",
-      "description": "sur les poêles, casseroles, ustensiles et l’électroménager",
-      "link": "https://www.macifavantages.fr/offres/tefal?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Rowenta",
       "discount": "-5% ou -15%",
       "offerType": "Réduction",
@@ -1828,6 +1818,16 @@
       "offerType": "Réduction",
       "description": "sur les appareils de cuisson, les robots de cuisine et l’électroménager",
       "link": "https://www.macifavantages.fr/offres/moulinex?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Tefal",
+      "discount": "-5% ou -15%",
+      "offerType": "Réduction",
+      "description": "sur les poêles, casseroles, ustensiles et l’électroménager",
+      "link": "https://www.macifavantages.fr/offres/tefal?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -1928,16 +1928,6 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat Nintendo eShop",
       "link": "https://www.macifavantages.fr/offres/nintendo-eshop-card?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "Nikon",
-      "discount": "-10% à -25%",
-      "offerType": "Réduction",
-      "description": "sur les appareils et accessoires photos",
-      "link": "https://www.macifavantages.fr/offres/nikon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2088,6 +2078,16 @@
       "offerType": "Réduction",
       "description": "sur les blenders et appareils de cuisine",
       "link": "https://www.macifavantages.fr/offres/nutribullet?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Nikon",
+      "discount": "-10% à -25%",
+      "offerType": "Réduction",
+      "description": "sur les appareils et accessoires photos",
+      "link": "https://www.macifavantages.fr/offres/nikon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2723,16 +2723,6 @@
       "page": 1
     },
     {
-      "merchant": "La presse avec Viapresse",
-      "discount": "-25% ou -50%",
-      "offerType": "Réduction",
-      "description": "sur les abonnements presse",
-      "link": "https://www.macifavantages.fr/offres/la-presse-avec-viapresse?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Culture & loisirs",
-      "page": 1
-    },
-    {
       "merchant": "1001 HOBBIES",
       "discount": "-5% et -10%",
       "offerType": "Réduction",
@@ -2888,6 +2878,16 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/aubert?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Culture & loisirs",
+      "page": 1
+    },
+    {
+      "merchant": "La presse avec Viapresse",
+      "discount": "-25% ou -50%",
+      "offerType": "Réduction",
+      "description": "sur les abonnements presse",
+      "link": "https://www.macifavantages.fr/offres/la-presse-avec-viapresse?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Culture & loisirs",
       "page": 1
