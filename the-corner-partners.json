@@ -1333,16 +1333,6 @@
       "page": 1
     },
     {
-      "merchant": "Maeva",
-      "discount": "-7% à -10%",
-      "offerType": "Réduction",
-      "description": "sur les hébergements",
-      "link": "https://www.macifavantages.fr/offres/maeva?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Miléade",
       "discount": "-10%",
       "offerType": "Réduction",
@@ -1358,16 +1348,6 @@
       "offerType": "Réduction",
       "description": "sur les hébergements",
       "link": "https://www.macifavantages.fr/offres/mmv?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
-      "merchant": "Mondial Tourisme",
-      "discount": "-9%",
-      "offerType": "Réduction",
-      "description": "sur les séjours",
-      "link": "https://www.macifavantages.fr/offres/mondial-tourisme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1763,6 +1743,36 @@
       "page": 1
     },
     {
+      "merchant": "Maeva",
+      "discount": "-7% à -10%",
+      "offerType": "Réduction",
+      "description": "sur les hébergements",
+      "link": "https://www.macifavantages.fr/offres/maeva?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Mondial Tourisme",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les séjours",
+      "link": "https://www.macifavantages.fr/offres/mondial-tourisme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Decathlon",
+      "discount": "-4%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
       "merchant": "Adagio",
       "discount": "-7% ou -10%",
       "offerType": "Réduction",
@@ -1923,26 +1933,6 @@
       "page": 1
     },
     {
-      "merchant": "Nintendo eShop Card",
-      "discount": "-8%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat Nintendo eShop",
-      "link": "https://www.macifavantages.fr/offres/nintendo-eshop-card?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "Sony",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur une sélection d’appareils photo, téléviseurs, casques audio",
-      "link": "https://www.macifavantages.fr/offres/sony?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Recommerce",
       "discount": "-5% et -10%",
       "offerType": "Réduction",
@@ -2088,6 +2078,26 @@
       "offerType": "Réduction",
       "description": "sur les appareils et accessoires photos",
       "link": "https://www.macifavantages.fr/offres/nikon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Nintendo eShop Card",
+      "discount": "-8%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat Nintendo eShop",
+      "link": "https://www.macifavantages.fr/offres/nintendo-eshop-card?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Sony",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur une sélection d’appareils photo, téléviseurs, casques audio",
+      "link": "https://www.macifavantages.fr/offres/sony?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -3373,6 +3383,16 @@
       "page": 1
     },
     {
+      "merchant": "Decathlon",
+      "discount": "-4%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
       "merchant": "Cdiscount",
       "discount": "4%",
       "offerType": "Réduction",
@@ -3883,6 +3903,16 @@
       "page": 1
     },
     {
+      "merchant": "Decathlon",
+      "discount": "-4%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
       "merchant": "Conforama",
       "discount": "-7%",
       "offerType": "Réduction",
@@ -3988,6 +4018,16 @@
       "offerType": "Réduction",
       "description": "sur une sélection de vêtements, chaussures et accessoires",
       "link": "https://www.macifavantages.fr/offres/adidas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Decathlon",
+      "discount": "-4%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
