@@ -1223,16 +1223,6 @@
       "page": 1
     },
     {
-      "merchant": "eDreams",
-      "discount": "-3%",
-      "offerType": "Réduction",
-      "description": "sur les vols secs et les packages vol+hôtel",
-      "link": "https://www.macifavantages.fr/offres/edreams?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Europcar Véhicule de tourisme",
       "discount": "-10% ou -20%",
       "offerType": "Réduction",
@@ -1258,16 +1248,6 @@
       "offerType": "Réduction",
       "description": "sur les circuits",
       "link": "https://www.macifavantages.fr/offres/la-franaise-des-circuits?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
-      "merchant": "Go Voyages",
-      "discount": "-3%",
-      "offerType": "Réduction",
-      "description": "sur les vols secs et les packages vol+hôtel",
-      "link": "https://www.macifavantages.fr/offres/go-voyages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1333,16 +1313,6 @@
       "page": 1
     },
     {
-      "merchant": "MMV",
-      "discount": "-8% ou -10%",
-      "offerType": "Réduction",
-      "description": "sur les hébergements",
-      "link": "https://www.macifavantages.fr/offres/mmv?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "MSC",
       "discount": "-9%",
       "offerType": "Réduction",
@@ -1363,16 +1333,6 @@
       "page": 1
     },
     {
-      "merchant": "Opodo",
-      "discount": "-3%",
-      "offerType": "Réduction",
-      "description": "sur les vols secs et les packages vol+hôtel",
-      "link": "https://www.macifavantages.fr/offres/opodo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Pierre & Vacances",
       "discount": "-7% à -10%",
       "offerType": "Réduction",
@@ -1388,16 +1348,6 @@
       "offerType": "Réduction",
       "description": "sur les séjours",
       "link": "https://www.macifavantages.fr/offres/plein-vent?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
-      "merchant": "Promoséjours",
-      "discount": "-9%",
-      "offerType": "Réduction",
-      "description": "sur les séjours",
-      "link": "https://www.macifavantages.fr/offres/promosjours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1593,26 +1543,6 @@
       "page": 1
     },
     {
-      "merchant": "Goélia",
-      "discount": "-8% ou -10%",
-      "offerType": "Réduction",
-      "description": "sur les résidences et clubs de vacances",
-      "link": "https://www.macifavantages.fr/offres/golia?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
-      "merchant": "Neaclub",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur les villages de vacances",
-      "link": "https://www.macifavantages.fr/offres/neaclub?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Nemea",
       "discount": "-8% ou -10%",
       "offerType": "Réduction",
@@ -1723,16 +1653,6 @@
       "page": 1
     },
     {
-      "merchant": "Intersport",
-      "discount": "-7%",
-      "offerType": "Réduction",
-      "description": "sur la location de matériel de ski",
-      "link": "https://www.macifavantages.fr/offres/intersport?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "GreenGo",
       "discount": "-5%",
       "offerType": "Réduction",
@@ -1758,6 +1678,86 @@
       "offerType": "Réduction",
       "description": "sur la location de matériel de ski",
       "link": "https://www.macifavantages.fr/offres/skiset?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Promoséjours",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les séjours",
+      "link": "https://www.macifavantages.fr/offres/promosjours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Go Voyages",
+      "discount": "-3%",
+      "offerType": "Réduction",
+      "description": "sur les vols secs et les packages vol+hôtel",
+      "link": "https://www.macifavantages.fr/offres/go-voyages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Intersport",
+      "discount": "-7%",
+      "offerType": "Réduction",
+      "description": "sur la location de matériel de ski",
+      "link": "https://www.macifavantages.fr/offres/intersport?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Goélia",
+      "discount": "-8% ou -10%",
+      "offerType": "Réduction",
+      "description": "sur les résidences et clubs de vacances",
+      "link": "https://www.macifavantages.fr/offres/golia?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "MMV",
+      "discount": "-8% ou -10%",
+      "offerType": "Réduction",
+      "description": "sur les hébergements",
+      "link": "https://www.macifavantages.fr/offres/mmv?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Opodo",
+      "discount": "-3%",
+      "offerType": "Réduction",
+      "description": "sur les vols secs et les packages vol+hôtel",
+      "link": "https://www.macifavantages.fr/offres/opodo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "eDreams",
+      "discount": "-3%",
+      "offerType": "Réduction",
+      "description": "sur les vols secs et les packages vol+hôtel",
+      "link": "https://www.macifavantages.fr/offres/edreams?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Neaclub",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur les villages de vacances",
+      "link": "https://www.macifavantages.fr/offres/neaclub?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1888,16 +1888,6 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat Fnac",
       "link": "https://www.macifavantages.fr/offres/fnac?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "Next Mobiles",
-      "discount": "-15%",
-      "offerType": "Réduction",
-      "description": "sur la location de téléphones ou objets tech",
-      "link": "https://www.macifavantages.fr/offres/next-mobiles?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2043,16 +2033,6 @@
       "page": 1
     },
     {
-      "merchant": "Garmin",
-      "discount": "-10% à -20%",
-      "offerType": "Réduction",
-      "description": "sur une sélection de montres et accessoires",
-      "link": "https://www.macifavantages.fr/offres/garmin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Nutribullet",
       "discount": "-5% ou -20%",
       "offerType": "Réduction",
@@ -2098,6 +2078,26 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat Nintendo eShop",
       "link": "https://www.macifavantages.fr/offres/nintendo-eshop-card?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Garmin",
+      "discount": "-10% à -25%",
+      "offerType": "Réduction",
+      "description": "sur une sélection de montres et accessoires",
+      "link": "https://www.macifavantages.fr/offres/garmin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Next Mobiles",
+      "discount": "-15%",
+      "offerType": "Réduction",
+      "description": "sur la location de téléphones ou objets tech",
+      "link": "https://www.macifavantages.fr/offres/next-mobiles?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2513,26 +2513,6 @@
       "page": 1
     },
     {
-      "merchant": "Bultex",
-      "discount": "-40% à -50%",
-      "offerType": "Réduction",
-      "description": "sur la literie",
-      "link": "https://www.macifavantages.fr/offres/bultex?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
-      "merchant": "Epeda",
-      "discount": "-40% à -50%",
-      "offerType": "Réduction",
-      "description": "sur la literie",
-      "link": "https://www.macifavantages.fr/offres/epeda?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "Cuisinella",
       "discount": "-10%",
       "offerType": "Réduction",
@@ -2643,16 +2623,6 @@
       "page": 1
     },
     {
-      "merchant": "Emma",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur la literie",
-      "link": "https://www.macifavantages.fr/offres/emma?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "BUT",
       "discount": "-7%",
       "offerType": "Réduction",
@@ -2718,6 +2688,36 @@
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/monjardinbio?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Emma",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur la literie",
+      "link": "https://www.macifavantages.fr/offres/emma?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Bultex",
+      "discount": "-40% à -50%",
+      "offerType": "Réduction",
+      "description": "sur la literie",
+      "link": "https://www.macifavantages.fr/offres/bultex?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Epeda",
+      "discount": "-40% à -50%",
+      "offerType": "Réduction",
+      "description": "sur la literie",
+      "link": "https://www.macifavantages.fr/offres/epeda?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -3213,16 +3213,6 @@
       "page": 1
     },
     {
-      "merchant": "Garmin",
-      "discount": "-10% à -20%",
-      "offerType": "Réduction",
-      "description": "sur une sélection de montres et accessoires",
-      "link": "https://www.macifavantages.fr/offres/garmin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Zalando",
       "discount": "-8%",
       "offerType": "Réduction",
@@ -3258,16 +3248,6 @@
       "offerType": "Réduction",
       "description": "sur une sélection de vêtements, chaussures et accessoires",
       "link": "https://www.macifavantages.fr/offres/adidas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
-      "merchant": "Decathlon",
-      "discount": "-4%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3398,6 +3378,26 @@
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/zta?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Decathlon",
+      "discount": "-4%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Garmin",
+      "discount": "-10% à -25%",
+      "offerType": "Réduction",
+      "description": "sur une sélection de montres et accessoires",
+      "link": "https://www.macifavantages.fr/offres/garmin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3703,16 +3703,6 @@
       "page": 1
     },
     {
-      "merchant": "Decathlon",
-      "discount": "-4%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "Jardiland",
       "discount": "-8%",
       "offerType": "Réduction",
@@ -3933,6 +3923,16 @@
       "page": 1
     },
     {
+      "merchant": "Decathlon",
+      "discount": "-4%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
       "merchant": "Conforama",
       "discount": "-7%",
       "offerType": "Réduction",
@@ -4023,11 +4023,11 @@
       "page": 1
     },
     {
-      "merchant": "Intersport",
-      "discount": "-7%",
+      "merchant": "Skiset",
+      "discount": "-8% à -15%",
       "offerType": "Réduction",
       "description": "sur la location de matériel de ski",
-      "link": "https://www.macifavantages.fr/offres/intersport?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "link": "https://www.macifavantages.fr/offres/skiset?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
@@ -4043,11 +4043,11 @@
       "page": 1
     },
     {
-      "merchant": "Skiset",
-      "discount": "-8% à -15%",
+      "merchant": "Intersport",
+      "discount": "-7%",
       "offerType": "Réduction",
       "description": "sur la location de matériel de ski",
-      "link": "https://www.macifavantages.fr/offres/skiset?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "link": "https://www.macifavantages.fr/offres/intersport?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
