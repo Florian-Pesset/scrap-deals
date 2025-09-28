@@ -1693,16 +1693,6 @@
       "page": 1
     },
     {
-      "merchant": "Go Voyages",
-      "discount": "-3%",
-      "offerType": "Réduction",
-      "description": "sur les vols secs et les packages vol+hôtel",
-      "link": "https://www.macifavantages.fr/offres/go-voyages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Intersport",
       "discount": "-7%",
       "offerType": "Réduction",
@@ -1733,6 +1723,26 @@
       "page": 1
     },
     {
+      "merchant": "Neaclub",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur les villages de vacances",
+      "link": "https://www.macifavantages.fr/offres/neaclub?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Go Voyages",
+      "discount": "-3%",
+      "offerType": "Réduction",
+      "description": "sur les vols secs et les packages vol+hôtel",
+      "link": "https://www.macifavantages.fr/offres/go-voyages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
       "merchant": "Opodo",
       "discount": "-3%",
       "offerType": "Réduction",
@@ -1748,16 +1758,6 @@
       "offerType": "Réduction",
       "description": "sur les vols secs et les packages vol+hôtel",
       "link": "https://www.macifavantages.fr/offres/edreams?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
-      "merchant": "Neaclub",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur les villages de vacances",
-      "link": "https://www.macifavantages.fr/offres/neaclub?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1793,31 +1793,21 @@
       "page": 1
     },
     {
-      "merchant": "Rowenta",
-      "discount": "-5% ou -15%",
-      "offerType": "Réduction",
-      "description": "sur les aspirateurs robots, nettoyeurs de sols, tondeuses et le soin du linge",
-      "link": "https://www.macifavantages.fr/offres/rowenta?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "Krups",
-      "discount": "-5% ou -15%",
-      "offerType": "Réduction",
-      "description": "sur les machines à café et autres électroménagers",
-      "link": "https://www.macifavantages.fr/offres/krups?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Moulinex",
       "discount": "-5% ou -15%",
       "offerType": "Réduction",
       "description": "sur les appareils de cuisson, les robots de cuisine et l’électroménager",
       "link": "https://www.macifavantages.fr/offres/moulinex?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Deezer",
+      "discount": "-22% à -37%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat Deezer",
+      "link": "https://www.macifavantages.fr/offres/deezer?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -1833,11 +1823,21 @@
       "page": 1
     },
     {
-      "merchant": "Deezer",
-      "discount": "-22% à -37%",
+      "merchant": "Krups",
+      "discount": "-5% ou -15%",
       "offerType": "Réduction",
-      "description": "sur un bon d’achat Deezer",
-      "link": "https://www.macifavantages.fr/offres/deezer?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "description": "sur les machines à café et autres électroménagers",
+      "link": "https://www.macifavantages.fr/offres/krups?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Rowenta",
+      "discount": "-5% ou -15%",
+      "offerType": "Réduction",
+      "description": "sur les aspirateurs robots, balais, traineaux, centrales vapeurs",
+      "link": "https://www.macifavantages.fr/offres/rowenta?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -1893,16 +1893,6 @@
       "page": 1
     },
     {
-      "merchant": "Cdiscount",
-      "discount": "4%",
-      "offerType": "Réduction",
-      "description": "remboursés sur vos achats",
-      "link": "https://www.macifavantages.fr/offres/cdiscount?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Showroomprive",
       "discount": "-5% et -8%",
       "offerType": "Réduction",
@@ -1953,26 +1943,6 @@
       "page": 1
     },
     {
-      "merchant": "HP",
-      "discount": "-5% à -30%",
-      "offerType": "Réduction",
-      "description": "sur les ordinateurs, imprimantes et accessoires",
-      "link": "https://www.macifavantages.fr/offres/hp?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "De'Longhi",
-      "discount": "-5% ou -20%",
-      "offerType": "Réduction",
-      "description": "sur les machines à café, appareils de cuisine et de climatisation",
-      "link": "https://www.macifavantages.fr/offres/delonghi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Braun",
       "discount": "-5% ou -20%",
       "offerType": "Réduction",
@@ -1983,31 +1953,11 @@
       "page": 1
     },
     {
-      "merchant": "Kenwood",
-      "discount": "-5% ou -20%",
-      "offerType": "Réduction",
-      "description": "sur les robots de cuisine, blenders et petits préparateurs",
-      "link": "https://www.macifavantages.fr/offres/kenwood?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Siemens",
       "discount": "-5% et – 25%",
       "offerType": "Réduction",
       "description": "sur les appareils électroménagers Siemens",
       "link": "https://www.macifavantages.fr/offres/siemens?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "Samsung",
-      "discount": "-10% à -20%",
-      "offerType": "Réduction",
-      "description": "sur les smartphones, produits high-tech et électroménager",
-      "link": "https://www.macifavantages.fr/offres/samsung?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2063,6 +2013,36 @@
       "page": 1
     },
     {
+      "merchant": "Nintendo eShop Card",
+      "discount": "-8%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat Nintendo eShop",
+      "link": "https://www.macifavantages.fr/offres/nintendo-eshop-card?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Next Mobiles",
+      "discount": "-15%",
+      "offerType": "Réduction",
+      "description": "sur la location de téléphones ou objets tech",
+      "link": "https://www.macifavantages.fr/offres/next-mobiles?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Samsung",
+      "discount": "-10% à -20%",
+      "offerType": "Réduction",
+      "description": "sur les smartphones, produits high-tech et électroménager",
+      "link": "https://www.macifavantages.fr/offres/samsung?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
       "merchant": "Lenovo",
       "discount": "-5% à -20%",
       "offerType": "Réduction",
@@ -2073,11 +2053,11 @@
       "page": 1
     },
     {
-      "merchant": "Nintendo eShop Card",
-      "discount": "-8%",
+      "merchant": "HP",
+      "discount": "-5% à -30%",
       "offerType": "Réduction",
-      "description": "sur un bon d’achat Nintendo eShop",
-      "link": "https://www.macifavantages.fr/offres/nintendo-eshop-card?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "description": "sur les ordinateurs, imprimantes et accessoires",
+      "link": "https://www.macifavantages.fr/offres/hp?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2093,11 +2073,31 @@
       "page": 1
     },
     {
-      "merchant": "Next Mobiles",
-      "discount": "-15%",
+      "merchant": "De'Longhi",
+      "discount": "-5% ou -20%",
       "offerType": "Réduction",
-      "description": "sur la location de téléphones ou objets tech",
-      "link": "https://www.macifavantages.fr/offres/next-mobiles?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "description": "sur les machines à café, appareils de cuisine et de climatisation",
+      "link": "https://www.macifavantages.fr/offres/delonghi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Kenwood",
+      "discount": "-5% ou -20%",
+      "offerType": "Réduction",
+      "description": "sur les robots de cuisine, blenders et petits préparateurs",
+      "link": "https://www.macifavantages.fr/offres/kenwood?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Cdiscount",
+      "discount": "4%",
+      "offerType": "Réduction",
+      "description": "remboursés sur vos achats",
+      "link": "https://www.macifavantages.fr/offres/cdiscount?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2278,6 +2278,16 @@
       "offerType": "Réduction",
       "description": "sur les pneumatiques et l’entretien courant",
       "link": "https://www.macifavantages.fr/offres/euromaster?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Auto & Moto",
+      "page": 1
+    },
+    {
+      "merchant": "Surplus Autos",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur les pièces détachées reconditionnées de mécanique et de carrosserie",
+      "link": "https://www.macifavantages.fr/offres/surplus-autos?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Auto & Moto",
       "page": 1
@@ -2533,16 +2543,6 @@
       "page": 1
     },
     {
-      "merchant": "Cdiscount",
-      "discount": "4%",
-      "offerType": "Réduction",
-      "description": "remboursés sur vos achats",
-      "link": "https://www.macifavantages.fr/offres/cdiscount?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "Showroomprive",
       "discount": "-5% et -8%",
       "offerType": "Réduction",
@@ -2718,6 +2718,16 @@
       "offerType": "Réduction",
       "description": "sur la literie",
       "link": "https://www.macifavantages.fr/offres/epeda?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Cdiscount",
+      "discount": "4%",
+      "offerType": "Réduction",
+      "description": "remboursés sur vos achats",
+      "link": "https://www.macifavantages.fr/offres/cdiscount?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -3028,16 +3038,6 @@
       "offerType": "Réduction",
       "description": "sur l’ensemble du site",
       "link": "https://www.macifavantages.fr/offres/le-slip-franais?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
-      "merchant": "Delsey",
-      "discount": "-5% à -25%",
-      "offerType": "Réduction",
-      "description": "sur les valises, sacs et accessoires",
-      "link": "https://www.macifavantages.fr/offres/delsey?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3398,6 +3398,16 @@
       "offerType": "Réduction",
       "description": "sur une sélection de montres et accessoires",
       "link": "https://www.macifavantages.fr/offres/garmin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Delsey",
+      "discount": "-5% à -25%",
+      "offerType": "Réduction",
+      "description": "sur les valises, sacs et accessoires",
+      "link": "https://www.macifavantages.fr/offres/delsey?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
