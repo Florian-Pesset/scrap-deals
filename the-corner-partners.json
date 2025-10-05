@@ -1683,16 +1683,6 @@
       "page": 1
     },
     {
-      "merchant": "Promoséjours",
-      "discount": "-9%",
-      "offerType": "Réduction",
-      "description": "sur les séjours",
-      "link": "https://www.macifavantages.fr/offres/promosjours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Intersport",
       "discount": "-7%",
       "offerType": "Réduction",
@@ -1758,6 +1748,16 @@
       "offerType": "Réduction",
       "description": "sur les vols secs et les packages vol+hôtel",
       "link": "https://www.macifavantages.fr/offres/edreams?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Promoséjours",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les séjours",
+      "link": "https://www.macifavantages.fr/offres/promosjours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1843,6 +1843,16 @@
       "page": 1
     },
     {
+      "merchant": "Calor",
+      "discount": "-5% ou -15%",
+      "offerType": "Réduction",
+      "description": "sur les poêles, casseroles, ustensiles et l’électroménager",
+      "link": "https://www.macifavantages.fr/offres/calor?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
       "merchant": "Yes Yes",
       "discount": "-5%",
       "offerType": "Réduction",
@@ -1913,16 +1923,6 @@
       "page": 1
     },
     {
-      "merchant": "Dyson",
-      "discount": "-6%",
-      "offerType": "Réduction",
-      "description": "sur les technologies Dyson",
-      "link": "https://www.macifavantages.fr/offres/dyson?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Dell",
       "discount": "-5% et -10%",
       "offerType": "Réduction",
@@ -1973,16 +1973,6 @@
       "page": 1
     },
     {
-      "merchant": "JBL",
-      "discount": "-10% et -20%",
-      "offerType": "Réduction",
-      "description": "sur les enceintes et casques audio",
-      "link": "https://www.macifavantages.fr/offres/jbl?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Nutribullet",
       "discount": "-5% ou -20%",
       "offerType": "Réduction",
@@ -2013,31 +2003,11 @@
       "page": 1
     },
     {
-      "merchant": "Nintendo eShop Card",
-      "discount": "-8%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat Nintendo eShop",
-      "link": "https://www.macifavantages.fr/offres/nintendo-eshop-card?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Next Mobiles",
       "discount": "-15%",
       "offerType": "Réduction",
       "description": "sur la location de téléphones ou objets tech",
       "link": "https://www.macifavantages.fr/offres/next-mobiles?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "Samsung",
-      "discount": "-10% à -20%",
-      "offerType": "Réduction",
-      "description": "sur les smartphones, produits high-tech et électroménager",
-      "link": "https://www.macifavantages.fr/offres/samsung?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2098,6 +2068,46 @@
       "offerType": "Réduction",
       "description": "remboursés sur vos achats",
       "link": "https://www.macifavantages.fr/offres/cdiscount?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Dyson",
+      "discount": "-6%",
+      "offerType": "Réduction",
+      "description": "sur les technologies Dyson",
+      "link": "https://www.macifavantages.fr/offres/dyson?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Nintendo eShop Card",
+      "discount": "-8%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat Nintendo eShop",
+      "link": "https://www.macifavantages.fr/offres/nintendo-eshop-card?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "JBL",
+      "discount": "-10% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les enceintes et casques audio",
+      "link": "https://www.macifavantages.fr/offres/jbl?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Samsung",
+      "discount": "-10% à -20%",
+      "offerType": "Réduction",
+      "description": "sur les smartphones, produits high-tech et électroménager",
+      "link": "https://www.macifavantages.fr/offres/samsung?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -3203,16 +3213,6 @@
       "page": 1
     },
     {
-      "merchant": "Dyson",
-      "discount": "-6%",
-      "offerType": "Réduction",
-      "description": "sur les technologies Dyson",
-      "link": "https://www.macifavantages.fr/offres/dyson?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Zalando",
       "discount": "-8%",
       "offerType": "Réduction",
@@ -3238,16 +3238,6 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/aubert?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
-      "merchant": "adidas",
-      "discount": "-5% et -15%",
-      "offerType": "Réduction",
-      "description": "sur une sélection de vêtements, chaussures et accessoires",
-      "link": "https://www.macifavantages.fr/offres/adidas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3408,6 +3398,26 @@
       "offerType": "Réduction",
       "description": "sur les valises, sacs et accessoires",
       "link": "https://www.macifavantages.fr/offres/delsey?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Dyson",
+      "discount": "-6%",
+      "offerType": "Réduction",
+      "description": "sur les technologies Dyson",
+      "link": "https://www.macifavantages.fr/offres/dyson?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "adidas",
+      "discount": "-5% et -15%",
+      "offerType": "Réduction",
+      "description": "sur une sélection de vêtements, chaussures et accessoires",
+      "link": "https://www.macifavantages.fr/offres/adidas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3943,6 +3953,16 @@
       "page": 1
     },
     {
+      "merchant": "Nintendo eShop Card",
+      "discount": "-8%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat Nintendo eShop",
+      "link": "https://www.macifavantages.fr/offres/nintendo-eshop-card?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
       "merchant": "Conforama",
       "discount": "-7%",
       "offerType": "Réduction",
@@ -4023,16 +4043,6 @@
       "page": 1
     },
     {
-      "merchant": "adidas",
-      "discount": "-5% et -15%",
-      "offerType": "Réduction",
-      "description": "sur une sélection de vêtements, chaussures et accessoires",
-      "link": "https://www.macifavantages.fr/offres/adidas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Sport & Bien Etre",
-      "page": 1
-    },
-    {
       "merchant": "Skiset",
       "discount": "-8% à -15%",
       "offerType": "Réduction",
@@ -4058,6 +4068,16 @@
       "offerType": "Réduction",
       "description": "sur la location de matériel de ski",
       "link": "https://www.macifavantages.fr/offres/intersport?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "adidas",
+      "discount": "-5% et -15%",
+      "offerType": "Réduction",
+      "description": "sur une sélection de vêtements, chaussures et accessoires",
+      "link": "https://www.macifavantages.fr/offres/adidas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
