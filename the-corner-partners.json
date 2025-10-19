@@ -1493,21 +1493,21 @@
       "page": 1
     },
     {
-      "merchant": "Abritel",
-      "discount": "-4%",
-      "offerType": "Réduction",
-      "description": "remboursés sur les logements",
-      "link": "https://www.macifavantages.fr/offres/abritel?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Europcar Véhicule de tourisme",
       "discount": "-10% ou -20%",
       "offerType": "Réduction",
       "description": "sur les locations de voiture",
       "link": "https://www.macifavantages.fr/offres/europcar-vhicule-de-tourisme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Abritel",
+      "discount": "-4%",
+      "offerType": "Réduction",
+      "description": "remboursés sur les logements",
+      "link": "https://www.macifavantages.fr/offres/abritel?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1548,16 +1548,6 @@
       "offerType": "Réduction",
       "description": "sur les séjours",
       "link": "https://www.macifavantages.fr/offres/voyamar?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
-      "merchant": "Tohapi",
-      "discount": "-5% à -15%",
-      "offerType": "Réduction",
-      "description": "sur les hébergements",
-      "link": "https://www.macifavantages.fr/offres/tohapi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -2113,21 +2103,21 @@
       "page": 1
     },
     {
-      "merchant": "Surplus Autos",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur les pièces détachées reconditionnées de mécanique et de carrosserie",
-      "link": "https://www.macifavantages.fr/offres/surplus-autos?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Auto & Moto",
-      "page": 1
-    },
-    {
       "merchant": "Surplus Motos",
       "discount": "-10%",
       "offerType": "Réduction",
       "description": "sur les pièces détachées reconditionnées Moto/ Scooter/ Quad",
       "link": "https://www.macifavantages.fr/offres/surplus-motos?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Auto & Moto",
+      "page": 1
+    },
+    {
+      "merchant": "Surplus Autos",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur les pièces détachées reconditionnées de mécanique et de carrosserie",
+      "link": "https://www.macifavantages.fr/offres/surplus-autos?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Auto & Moto",
       "page": 1
@@ -3413,21 +3403,21 @@
       "page": 1
     },
     {
-      "merchant": "Emeu Kidstore",
-      "discount": "-7%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’une E-Carte Cadeau",
-      "link": "https://www.macifavantages.fr/offres/emeu-kidstore?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Panafrica",
       "discount": "-5%",
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/panafrica?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Emeu Kidstore",
+      "discount": "-7%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/emeu-kidstore?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
