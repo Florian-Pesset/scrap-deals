@@ -3553,6 +3553,16 @@
       "page": 1
     },
     {
+      "merchant": "Castorama",
+      "discount": "-6%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/castorama?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
       "merchant": "Sergent Major",
       "discount": "-9%",
       "offerType": "Réduction",
@@ -3568,16 +3578,6 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/jacadi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
-      "merchant": "Castorama",
-      "discount": "-6%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/castorama?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -3744,7 +3744,7 @@
     },
     {
       "merchant": "Wonderbox",
-      "discount": "-15%",
+      "discount": "-16%",
       "offerType": "Réduction",
       "description": "sur les coffrets",
       "link": "https://www.macifavantages.fr/offres/wonderbox?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
