@@ -2413,6 +2413,16 @@
       "page": 1
     },
     {
+      "merchant": "La boutique Origine France Garantie",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur vos achats Mode, Maison, Beauté…",
+      "link": "https://www.macifavantages.fr/offres/la-boutique-origine-france-garantie?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
       "merchant": "Interflora",
       "discount": "-15%",
       "offerType": "Réduction",
@@ -2478,6 +2488,16 @@
       "offerType": "Réduction",
       "description": "sur l’installation de panneaux solaires",
       "link": "https://www.macifavantages.fr/offres/engie-my-power?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "ENGIE Home Services",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur un contrat d’entretien et jusqu’à 600 € offert pour l’installation de votre équipement de chauffage",
+      "link": "https://www.macifavantages.fr/offres/engie-home-services?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -2588,16 +2608,6 @@
       "offerType": "Réduction",
       "description": "sur l’abonnement premier pour rendre service à vos voisins",
       "link": "https://www.macifavantages.fr/offres/allovoisins?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
-      "merchant": "LE BHV MARAIS",
-      "discount": "-6%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/le-bhv-marais?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -2828,6 +2838,26 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/king-jouet?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Culture & loisirs",
+      "page": 1
+    },
+    {
+      "merchant": "La Grande Récré",
+      "discount": "-7%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/la-grande-rcr?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Culture & loisirs",
+      "page": 1
+    },
+    {
+      "merchant": "La boutique Origine France Garantie",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur vos achats Mode, Maison, Beauté…",
+      "link": "https://www.macifavantages.fr/offres/la-boutique-origine-france-garantie?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Culture & loisirs",
       "page": 1
@@ -3193,6 +3223,16 @@
       "page": 1
     },
     {
+      "merchant": "La boutique Origine France Garantie",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur vos achats Mode, Maison, Beauté…",
+      "link": "https://www.macifavantages.fr/offres/la-boutique-origine-france-garantie?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
       "merchant": "Yves Rocher",
       "discount": "-10%",
       "offerType": "Réduction",
@@ -3268,16 +3308,6 @@
       "offerType": "Réduction",
       "description": "sur tous les programmes",
       "link": "https://www.macifavantages.fr/offres/mta-coaching?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
-      "merchant": "LE BHV MARAIS",
-      "discount": "-6%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/le-bhv-marais?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3683,16 +3713,6 @@
       "page": 1
     },
     {
-      "merchant": "Okaidi",
-      "discount": "-12%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/okaidi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "King Jouet",
       "discount": "-10%",
       "offerType": "Réduction",
@@ -3703,11 +3723,41 @@
       "page": 1
     },
     {
+      "merchant": "Okaidi",
+      "discount": "-12%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/okaidi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
       "merchant": "Du Pareil au Même",
       "discount": "-9%",
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/du-pareil-au-mme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "La Grande Récré",
+      "discount": "-7%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/la-grande-rcr?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "La boutique Origine France Garantie",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur vos achats Mode, Maison, Beauté…",
+      "link": "https://www.macifavantages.fr/offres/la-boutique-origine-france-garantie?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -3798,16 +3848,6 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/ampm?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
-      "merchant": "LE BHV MARAIS",
-      "discount": "-6%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/le-bhv-marais?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
