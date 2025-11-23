@@ -1608,21 +1608,21 @@
       "page": 1
     },
     {
-      "merchant": "Abritel",
-      "discount": "-4%",
-      "offerType": "Réduction",
-      "description": "remboursés sur les logements",
-      "link": "https://www.macifavantages.fr/offres/abritel?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Decathlon",
       "discount": "-4%",
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Abritel",
+      "discount": "-4%",
+      "offerType": "Réduction",
+      "description": "remboursés sur les logements",
+      "link": "https://www.macifavantages.fr/offres/abritel?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1968,6 +1968,16 @@
       "page": 1
     },
     {
+      "merchant": "De'Longhi",
+      "discount": "-5% ou -20%",
+      "offerType": "Réduction",
+      "description": "sur les machines à café, appareils de cuisine et de climatisation",
+      "link": "https://www.macifavantages.fr/offres/delonghi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
       "merchant": "Tefal",
       "discount": "-5% ou -15%",
       "offerType": "Réduction",
@@ -1983,16 +1993,6 @@
       "offerType": "Réduction",
       "description": "sur les poêles, casseroles, ustensiles et l’électroménager",
       "link": "https://www.macifavantages.fr/offres/calor?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
-      "merchant": "De'Longhi",
-      "discount": "-5% ou -20%",
-      "offerType": "Réduction",
-      "description": "sur les machines à café, appareils de cuisine et de climatisation",
-      "link": "https://www.macifavantages.fr/offres/delonghi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2188,21 +2188,21 @@
       "page": 1
     },
     {
-      "merchant": "Yes Yes",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’une E-Carte Cadeau",
-      "link": "https://www.macifavantages.fr/offres/yes-yes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Nutribullet",
       "discount": "-5% ou -20%",
       "offerType": "Réduction",
       "description": "sur les blenders et appareils de cuisine",
       "link": "https://www.macifavantages.fr/offres/nutribullet?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Yes Yes",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/yes-yes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2808,21 +2808,21 @@
       "page": 1
     },
     {
-      "merchant": "El Market",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’une E-Carte Cadeau",
-      "link": "https://www.macifavantages.fr/offres/el-market?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "Kärcher",
       "discount": "-20%",
       "offerType": "Réduction",
       "description": "sur la gamme “HOME & GARDEN”",
       "link": "https://www.macifavantages.fr/offres/krcher?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "El Market",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/el-market?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
