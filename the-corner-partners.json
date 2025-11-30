@@ -1168,7 +1168,7 @@
       "page": 1
     },
     {
-      "merchant": "CROISIEUROPE",
+      "merchant": "CroisiEurope",
       "discount": "-9%",
       "offerType": "Réduction",
       "description": "sur les croisières",
@@ -1519,7 +1519,7 @@
     },
     {
       "merchant": "Travelski",
-      "discount": "-10%",
+      "discount": "-8% ou -10%",
       "offerType": "Réduction",
       "description": "sur les séjours",
       "link": "https://www.macifavantages.fr/offres/travelski?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
@@ -2188,21 +2188,21 @@
       "page": 1
     },
     {
-      "merchant": "Nutribullet",
-      "discount": "-5% ou -20%",
-      "offerType": "Réduction",
-      "description": "sur les blenders et appareils de cuisine",
-      "link": "https://www.macifavantages.fr/offres/nutribullet?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Yes Yes",
       "discount": "-5%",
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/yes-yes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Nutribullet",
+      "discount": "-5% ou -20%",
+      "offerType": "Réduction",
+      "description": "sur les blenders et appareils de cuisine",
+      "link": "https://www.macifavantages.fr/offres/nutribullet?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2748,6 +2748,16 @@
       "page": 1
     },
     {
+      "merchant": "Altermundi",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/altermundi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
       "merchant": "Stannah",
       "discount": "-396€ TTC",
       "offerType": "Réduction",
@@ -2798,21 +2808,21 @@
       "page": 1
     },
     {
-      "merchant": "Abridéal",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’un abri de piscine,",
-      "link": "https://www.macifavantages.fr/offres/abridal?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "Kärcher",
       "discount": "-20%",
       "offerType": "Réduction",
       "description": "sur la gamme “HOME & GARDEN”",
       "link": "https://www.macifavantages.fr/offres/krcher?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Abridéal",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’un abri de piscine,",
+      "link": "https://www.macifavantages.fr/offres/abridal?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -3081,7 +3091,7 @@
       "merchant": "Magasins U",
       "discount": "-4%",
       "offerType": "Réduction",
-      "description": "sur un bon d’achat",
+      "description": "sur une e-carte cadeau U",
       "link": "https://www.macifavantages.fr/offres/magasins-u?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Alimentation & vins",
@@ -3093,6 +3103,16 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/monoprix?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Alimentation & vins",
+      "page": 1
+    },
+    {
+      "merchant": "La boutique Origine France Garantie",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur vos achats Mode, Maison, Beauté…",
+      "link": "https://www.macifavantages.fr/offres/la-boutique-origine-france-garantie?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Alimentation & vins",
       "page": 1
@@ -3288,21 +3308,21 @@
       "page": 1
     },
     {
-      "merchant": "Aubert",
-      "discount": "-8%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/aubert?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Marionnaud",
       "discount": "-10%",
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/marionnaud?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Aubert",
+      "discount": "-8%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/aubert?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3433,6 +3453,16 @@
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/1083?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Altermundi",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/altermundi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3671,7 +3701,7 @@
       "merchant": "Magasins U",
       "discount": "-4%",
       "offerType": "Réduction",
-      "description": "sur un bon d’achat",
+      "description": "sur une e-carte cadeau U",
       "link": "https://www.macifavantages.fr/offres/magasins-u?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
@@ -3788,21 +3818,21 @@
       "page": 1
     },
     {
-      "merchant": "Aubert",
-      "discount": "-8%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/aubert?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "Marionnaud",
       "discount": "-10%",
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/marionnaud?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Aubert",
+      "discount": "-8%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/aubert?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -3953,6 +3983,16 @@
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/1083?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Altermundi",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/altermundi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -4143,6 +4183,16 @@
       "offerType": "Réduction",
       "description": "sur la location de matériel de ski",
       "link": "https://www.macifavantages.fr/offres/skimium?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "La boutique Origine France Garantie",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur vos achats Mode, Maison, Beauté…",
+      "link": "https://www.macifavantages.fr/offres/la-boutique-origine-france-garantie?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
