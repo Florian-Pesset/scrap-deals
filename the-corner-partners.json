@@ -1668,16 +1668,6 @@
       "page": 1
     },
     {
-      "merchant": "Rentalcars.com",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur les location de voiture",
-      "link": "https://www.macifavantages.fr/offres/rentalcarscom?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "GreenGo",
       "discount": "-5%",
       "offerType": "Réduction",
@@ -1879,7 +1869,7 @@
     },
     {
       "merchant": "Macif Centre de Voile",
-      "discount": "-5%",
+      "discount": "-10%",
       "offerType": "Réduction",
       "description": "sur l’ensemble des stages",
       "link": "https://www.macifavantages.fr/offres/macif-centre-de-voile?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
@@ -2263,16 +2253,6 @@
       "offerType": "Réduction",
       "description": "sur les locations de voiture",
       "link": "https://www.macifavantages.fr/offres/europcar-vhicule-de-tourisme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Auto & Moto",
-      "page": 1
-    },
-    {
-      "merchant": "Rentalcars.com",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur les location de voiture",
-      "link": "https://www.macifavantages.fr/offres/rentalcarscom?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Auto & Moto",
       "page": 1
@@ -3858,21 +3838,21 @@
       "page": 1
     },
     {
-      "merchant": "Du Pareil au Même",
-      "discount": "-9%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/du-pareil-au-mme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "La Grande Récré",
       "discount": "-7%",
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/la-grande-rcr?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Du Pareil au Même",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/du-pareil-au-mme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
