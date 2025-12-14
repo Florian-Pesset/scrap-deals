@@ -2578,16 +2578,6 @@
       "page": 1
     },
     {
-      "merchant": "ENGIE Home Services",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur un contrat d’entretien et jusqu’à 600 € offert pour l’installation de votre équipement de chauffage",
-      "link": "https://www.macifavantages.fr/offres/engie-home-services?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "Les Gentlemen du Déménagement",
       "discount": "-12%",
       "offerType": "Réduction",
@@ -2743,16 +2733,6 @@
       "offerType": "Réduction",
       "description": "sur un monte-escaliers ou une plate-forme",
       "link": "https://www.macifavantages.fr/offres/stannah?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
-      "merchant": "SecurKeys",
-      "discount": "-20%",
-      "offerType": "Réduction",
-      "description": "sur le service d’assistance perte de clés",
-      "link": "https://www.macifavantages.fr/offres/securkeys?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -2953,16 +2933,6 @@
       "offerType": "Réduction",
       "description": "sur les abonnements presse",
       "link": "https://www.macifavantages.fr/offres/la-presse-avec-viapresse?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Culture & loisirs",
-      "page": 1
-    },
-    {
-      "merchant": "La boutique Origine France Garantie",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur vos achats Mode, Maison, Beauté…",
-      "link": "https://www.macifavantages.fr/offres/la-boutique-origine-france-garantie?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Culture & loisirs",
       "page": 1
@@ -3638,21 +3608,21 @@
       "page": 1
     },
     {
-      "merchant": "Leroy Merlin",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/leroy-merlin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "Carrefour",
       "discount": "-5%",
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/carrefour?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Leroy Merlin",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/leroy-merlin?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -3853,16 +3823,6 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/du-pareil-au-mme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
-      "merchant": "La boutique Origine France Garantie",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur vos achats Mode, Maison, Beauté…",
-      "link": "https://www.macifavantages.fr/offres/la-boutique-origine-france-garantie?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
