@@ -2308,21 +2308,21 @@
       "page": 1
     },
     {
-      "merchant": "eplaque.fr",
-      "discount": "-15% ou -25%",
-      "offerType": "Réduction",
-      "description": "sur les services de commande des cartes grises ou des plaques d’immatriculation",
-      "link": "https://www.macifavantages.fr/offres/eplaquefr?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Auto & Moto",
-      "page": 1
-    },
-    {
       "merchant": "Speedway",
       "discount": "-16% ou -20%",
       "offerType": "Réduction",
       "description": "sur les pièces, accessoires et équipements 2 roues",
       "link": "https://www.macifavantages.fr/offres/speedway?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Auto & Moto",
+      "page": 1
+    },
+    {
+      "merchant": "eplaque.fr",
+      "discount": "-15% ou -25%",
+      "offerType": "Réduction",
+      "description": "sur les services de commande des cartes grises ou des plaques d’immatriculation",
+      "link": "https://www.macifavantages.fr/offres/eplaquefr?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Auto & Moto",
       "page": 1
@@ -3848,16 +3848,6 @@
       "page": 1
     },
     {
-      "merchant": "Bergamotte",
-      "discount": "-15%",
-      "offerType": "Réduction",
-      "description": "sur les fleurs et les plantes",
-      "link": "https://www.macifavantages.fr/offres/bergamotte?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "Wonderbox",
       "discount": "-16%",
       "offerType": "Réduction",
@@ -3868,11 +3858,11 @@
       "page": 1
     },
     {
-      "merchant": "Photobox",
-      "discount": "-60 %",
+      "merchant": "Bergamotte",
+      "discount": "-15%",
       "offerType": "Réduction",
-      "description": "sur les tirages photos, albums et autre accessoires",
-      "link": "https://www.macifavantages.fr/offres/photobox?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "description": "sur les fleurs et les plantes",
+      "link": "https://www.macifavantages.fr/offres/bergamotte?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -3883,6 +3873,16 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/galeries-lafayette?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Photobox",
+      "discount": "-60 %",
+      "offerType": "Réduction",
+      "description": "sur les tirages photos, albums et autre accessoires",
+      "link": "https://www.macifavantages.fr/offres/photobox?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
