@@ -1,5 +1,5 @@
 {
-  "name": "the-corner-scraper",
+  "name": "scrap-deals",
   "version": "1.0.0",
   "description": "Scraper pour extraire les partenaires The Corner de Boursobank",
   "main": "scraper.js",

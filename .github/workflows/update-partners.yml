@@ -1,4 +1,4 @@
-name: Update Partners Data
+name: Update Deals Data
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update-partners:
+  update-deals:
     runs-on: ubuntu-latest
     
     steps:
@@ -66,5 +66,5 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add the-corner-partners.json last_update.txt
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update partners data" && git push) 
+        git add all-offers.json last_update.txt
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update deals data" && git push) 
