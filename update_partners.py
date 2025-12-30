@@ -9,10 +9,10 @@ def check_and_update_partners():
         subprocess.run(['node', 'scraper.js'], check=True)
         
         # Vérifier si le fichier JSON existe et n'est pas vide
-        if not os.path.exists('the-corner-partners.json'):
+        if not os.path.exists('all-offers.json'):
             raise Exception("Le fichier JSON n'a pas été créé")
             
-        with open('the-corner-partners.json', 'r', encoding='utf-8') as f:
+        with open('all-offers.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
             if not data:
                 raise Exception("Le fichier JSON est vide")

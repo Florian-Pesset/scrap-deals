@@ -210,14 +210,14 @@ async function scrapeAllSources() {
 
     // Save the results
     fs.writeFileSync(
-      'the-corner-partners.json',
+      'all-offers.json',
       JSON.stringify(result, null, 2),
       'utf-8'
     );
 
     console.log('\nScraping completed successfully!');
     console.log(`Total: ${macifOffers.length + boursoOffers.length} offers found`);
-    console.log('Data saved to the-corner-partners.json');
+    console.log('Data saved to all-offers.json');
 
     return result;
 

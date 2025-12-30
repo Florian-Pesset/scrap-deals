@@ -73,7 +73,7 @@ npm start
 Le script va :
 1. Se connecter à la page web de Parraineo
 2. Extraire toutes les informations des partenaires The Corner
-3. Sauvegarder les données dans un fichier `the-corner-partners.json`
+3. Sauvegarder les données dans un fichier `all-offers.json`
 
 ## Structure des données
 
@@ -90,7 +90,7 @@ Ce dépôt fournit une API JSON gratuite pour accéder aux offres partenaires de
 
 Les données sont accessibles via l'URL suivante :
 ```
-https://[votre-nom-utilisateur].github.io/[nom-repo]/the-corner-partners.json
+https://[votre-nom-utilisateur].github.io/[nom-repo]/all-offers.json
 ```
 
 ## Mise à jour
