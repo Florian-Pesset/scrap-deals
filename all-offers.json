@@ -1228,6 +1228,26 @@
       "page": 1
     },
     {
+      "merchant": "Ôvoyages",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les séjours",
+      "link": "https://www.macifavantages.fr/offres/voyages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Nemea Appart'Hotel",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur les hébergements",
+      "link": "https://www.macifavantages.fr/offres/nemea-apparthotel?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
       "merchant": "Belambra",
       "discount": "6% ou -10%",
       "offerType": "Réduction",
@@ -1429,7 +1449,7 @@
     },
     {
       "merchant": "VTF",
-      "discount": "-8% à -10%",
+      "discount": "-8% ou -10%",
       "offerType": "Réduction",
       "description": "sur les séjours",
       "link": "https://www.macifavantages.fr/offres/vtf?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
@@ -1493,6 +1513,16 @@
       "offerType": "Réduction",
       "description": "sur les séjours hôtels et les parcs",
       "link": "https://www.macifavantages.fr/offres/portaventura-world?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Nemea",
+      "discount": "-8% ou -10%",
+      "offerType": "Réduction",
+      "description": "sur les locations de vacances",
+      "link": "https://www.macifavantages.fr/offres/nemea?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1869,9 +1899,9 @@
     },
     {
       "merchant": "Showroomprive",
-      "discount": "-5% et -8%",
+      "discount": "-5%",
       "offerType": "Réduction",
-      "description": "sur l’high-tech, la mode et la maison",
+      "description": "sur des ventes exclusives de grandes marques",
       "link": "https://www.macifavantages.fr/offres/showroomprive?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
@@ -1929,9 +1959,9 @@
     },
     {
       "merchant": "Tefal",
-      "discount": "-5% ou -15%",
+      "discount": "-5% à -25%",
       "offerType": "Réduction",
-      "description": "sur les poêles, casseroles, ustensiles et l’électroménager",
+      "description": "sur les poêles, casseroles, ustensiles et le petit électroménager",
       "link": "https://www.macifavantages.fr/offres/tefal?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
@@ -1951,7 +1981,7 @@
       "merchant": "Rowenta",
       "discount": "-5% ou -15%",
       "offerType": "Réduction",
-      "description": "sur les aspirateurs robots, balais, traineaux, centrales vapeurs",
+      "description": "sur les aspirateurs, soin du linge, shampouineuses, nettoyeurs vapeur",
       "link": "https://www.macifavantages.fr/offres/rowenta?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
@@ -2339,9 +2369,9 @@
     },
     {
       "merchant": "Showroomprive",
-      "discount": "-5% et -8%",
+      "discount": "-5%",
       "offerType": "Réduction",
-      "description": "sur l’high-tech, la mode et la maison",
+      "description": "sur des ventes exclusives de grandes marques",
       "link": "https://www.macifavantages.fr/offres/showroomprive?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
@@ -2638,16 +2668,6 @@
       "page": 1
     },
     {
-      "merchant": "Zoomalia",
-      "discount": "-8%",
-      "offerType": "Réduction",
-      "description": "sur la nutrition et accessoires pour Animaux",
-      "link": "https://www.macifavantages.fr/offres/zoomalia?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "SecurClés.com",
       "discount": "-10%",
       "offerType": "Réduction",
@@ -2688,6 +2708,16 @@
       "page": 1
     },
     {
+      "merchant": "Kärcher",
+      "discount": "-20%",
+      "offerType": "Réduction",
+      "description": "sur la gamme “HOME & GARDEN”",
+      "link": "https://www.macifavantages.fr/offres/krcher?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
       "merchant": "Mutyne",
       "discount": "-15%",
       "offerType": "Réduction",
@@ -2703,16 +2733,6 @@
       "offerType": "Réduction",
       "description": "sur les produits anti-inondations",
       "link": "https://www.macifavantages.fr/offres/ausec?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
-      "merchant": "Kärcher",
-      "discount": "-20%",
-      "offerType": "Réduction",
-      "description": "sur la gamme “HOME & GARDEN”",
-      "link": "https://www.macifavantages.fr/offres/krcher?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -2789,9 +2809,9 @@
     },
     {
       "merchant": "Showroomprive",
-      "discount": "-5% et -8%",
+      "discount": "-5%",
       "offerType": "Réduction",
-      "description": "sur l’high-tech, la mode et la maison",
+      "description": "sur des ventes exclusives de grandes marques",
       "link": "https://www.macifavantages.fr/offres/showroomprive?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Culture & loisirs",
@@ -3059,9 +3079,9 @@
     },
     {
       "merchant": "Showroomprive",
-      "discount": "-5% et -8%",
+      "discount": "-5%",
       "offerType": "Réduction",
-      "description": "sur l’high-tech, la mode et la maison",
+      "description": "sur des ventes exclusives de grandes marques",
       "link": "https://www.macifavantages.fr/offres/showroomprive?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
@@ -3283,6 +3303,16 @@
       "offerType": "Réduction",
       "description": "sur la Mode, Maison & Déco",
       "link": "https://www.macifavantages.fr/offres/3suisses?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Spartoo",
+      "discount": "-15%",
+      "offerType": "Réduction",
+      "description": "sur les chaussures, sacs et vêtements",
+      "link": "https://www.macifavantages.fr/offres/spartoo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
