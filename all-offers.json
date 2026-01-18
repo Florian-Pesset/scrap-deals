@@ -1518,16 +1518,6 @@
       "page": 1
     },
     {
-      "merchant": "Nemea",
-      "discount": "-8% ou -10%",
-      "offerType": "Réduction",
-      "description": "sur les locations de vacances",
-      "link": "https://www.macifavantages.fr/offres/nemea?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Miléade",
       "discount": "-10%",
       "offerType": "Réduction",
@@ -1598,21 +1588,21 @@
       "page": 1
     },
     {
-      "merchant": "Adagio",
-      "discount": "-7% ou -10%",
-      "offerType": "Réduction",
-      "description": "sur les hébergements",
-      "link": "https://www.macifavantages.fr/offres/adagio?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Europcar Véhicule de tourisme",
       "discount": "-10% ou -20%",
       "offerType": "Réduction",
       "description": "sur les locations de voiture",
       "link": "https://www.macifavantages.fr/offres/europcar-vhicule-de-tourisme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Adagio",
+      "discount": "-7% ou -10%",
+      "offerType": "Réduction",
+      "description": "sur les hébergements",
+      "link": "https://www.macifavantages.fr/offres/adagio?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1678,21 +1668,21 @@
       "page": 1
     },
     {
-      "merchant": "GreenGo",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’une E-Carte Cadeau",
-      "link": "https://www.macifavantages.fr/offres/greengo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Skiset",
       "discount": "-8% à -15%",
       "offerType": "Réduction",
       "description": "sur la location de matériel de ski",
       "link": "https://www.macifavantages.fr/offres/skiset?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "GreenGo",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/greengo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -2558,21 +2548,21 @@
       "page": 1
     },
     {
-      "merchant": "Tollens",
-      "discount": "de -5% à -20%",
-      "offerType": "Réduction",
-      "description": "sur les peintures Tollens en ligne et en magasin, même sur les promos",
-      "link": "https://www.macifavantages.fr/offres/tollens?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "Emma",
       "discount": "-10%",
       "offerType": "Réduction",
       "description": "sur la literie",
       "link": "https://www.macifavantages.fr/offres/emma?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Tollens",
+      "discount": "de -5% à -20%",
+      "offerType": "Réduction",
+      "description": "sur les peintures Tollens en ligne et en magasin, même sur les promos",
+      "link": "https://www.macifavantages.fr/offres/tollens?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -3138,6 +3128,46 @@
       "page": 1
     },
     {
+      "merchant": "DC Shoes",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les chaussures, vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Quiksilver",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/quiksilver?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Roxy",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/roxy?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Billabong",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/billabong?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
       "merchant": "La Redoute",
       "discount": "-5%",
       "offerType": "Réduction",
@@ -3388,21 +3418,21 @@
       "page": 1
     },
     {
-      "merchant": "The Trust Society",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’une E-Carte Cadeau",
-      "link": "https://www.macifavantages.fr/offres/the-trust-society?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Zèta",
       "discount": "-7%",
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/zta?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "The Trust Society",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/the-trust-society?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3898,21 +3928,21 @@
       "page": 1
     },
     {
-      "merchant": "The Trust Society",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’une E-Carte Cadeau",
-      "link": "https://www.macifavantages.fr/offres/the-trust-society?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "Zèta",
       "discount": "-7%",
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/zta?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "The Trust Society",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/the-trust-society?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -4003,6 +4033,46 @@
       "offerType": "Réduction",
       "description": "sur une sélection de vêtements, chaussures et accessoires",
       "link": "https://www.macifavantages.fr/offres/adidas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "DC Shoes",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les chaussures, vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Roxy",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/roxy?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Quiksilver",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/quiksilver?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Billabong",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/billabong?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
