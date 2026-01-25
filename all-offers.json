@@ -1168,6 +1168,16 @@
       "page": 1
     },
     {
+      "merchant": "Directours",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les séjours",
+      "link": "https://www.macifavantages.fr/offres/directours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
       "merchant": "CroisiEurope",
       "discount": "-9%",
       "offerType": "Réduction",
@@ -2408,21 +2418,21 @@
       "page": 1
     },
     {
-      "merchant": "Jardiland",
-      "discount": "-8%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/jardiland?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "IKEA",
       "discount": "-4%",
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/ikea?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Jardiland",
+      "discount": "-8%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/jardiland?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -3128,11 +3138,11 @@
       "page": 1
     },
     {
-      "merchant": "DC Shoes",
+      "merchant": "Roxy",
       "discount": "-5% et -20%",
       "offerType": "Réduction",
-      "description": "sur les chaussures, vêtements et accessoires",
-      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "description": "sur les vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/roxy?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3148,11 +3158,11 @@
       "page": 1
     },
     {
-      "merchant": "Roxy",
+      "merchant": "DC Shoes",
       "discount": "-5% et -20%",
       "offerType": "Réduction",
-      "description": "sur les vêtements et accessoires",
-      "link": "https://www.macifavantages.fr/offres/roxy?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "description": "sur les chaussures, vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3658,21 +3668,21 @@
       "page": 1
     },
     {
-      "merchant": "Jardiland",
-      "discount": "-8%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/jardiland?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "IKEA",
       "discount": "-4%",
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/ikea?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Jardiland",
+      "discount": "-8%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/jardiland?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -4038,16 +4048,6 @@
       "page": 1
     },
     {
-      "merchant": "DC Shoes",
-      "discount": "-5% et -20%",
-      "offerType": "Réduction",
-      "description": "sur les chaussures, vêtements et accessoires",
-      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Sport & Bien Etre",
-      "page": 1
-    },
-    {
       "merchant": "Roxy",
       "discount": "-5% et -20%",
       "offerType": "Réduction",
@@ -4063,6 +4063,16 @@
       "offerType": "Réduction",
       "description": "sur les vêtements et accessoires",
       "link": "https://www.macifavantages.fr/offres/quiksilver?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "DC Shoes",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les chaussures, vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
