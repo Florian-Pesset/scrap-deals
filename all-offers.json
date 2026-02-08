@@ -1178,6 +1178,16 @@
       "page": 1
     },
     {
+      "merchant": "Hurtigruten",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les croisières",
+      "link": "https://www.macifavantages.fr/offres/hurtigruten?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
       "merchant": "CroisiEurope",
       "discount": "-9%",
       "offerType": "Réduction",
@@ -2538,21 +2548,21 @@
       "page": 1
     },
     {
-      "merchant": "ENGIE My Power",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur l’installation de panneaux solaires",
-      "link": "https://www.macifavantages.fr/offres/engie-my-power?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "Les Gentlemen du Déménagement",
       "discount": "-12%",
       "offerType": "Réduction",
       "description": "sur les déménagements",
       "link": "https://www.macifavantages.fr/offres/les-gentlemen-du-dmnagement?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "ENGIE My Power",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur l’installation de panneaux solaires",
+      "link": "https://www.macifavantages.fr/offres/engie-my-power?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -3158,21 +3168,21 @@
       "page": 1
     },
     {
-      "merchant": "DC Shoes",
-      "discount": "-5% et -20%",
-      "offerType": "Réduction",
-      "description": "sur les chaussures, vêtements et accessoires",
-      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Billabong",
       "discount": "-5% et -20%",
       "offerType": "Réduction",
       "description": "sur les vêtements et accessoires",
       "link": "https://www.macifavantages.fr/offres/billabong?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "DC Shoes",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les chaussures, vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -4068,21 +4078,21 @@
       "page": 1
     },
     {
-      "merchant": "DC Shoes",
-      "discount": "-5% et -20%",
-      "offerType": "Réduction",
-      "description": "sur les chaussures, vêtements et accessoires",
-      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Sport & Bien Etre",
-      "page": 1
-    },
-    {
       "merchant": "Billabong",
       "discount": "-5% et -20%",
       "offerType": "Réduction",
       "description": "sur les vêtements et accessoires",
       "link": "https://www.macifavantages.fr/offres/billabong?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "DC Shoes",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les chaussures, vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
