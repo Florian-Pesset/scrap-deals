@@ -3168,21 +3168,21 @@
       "page": 1
     },
     {
-      "merchant": "Billabong",
-      "discount": "-5% et -20%",
-      "offerType": "Réduction",
-      "description": "sur les vêtements et accessoires",
-      "link": "https://www.macifavantages.fr/offres/billabong?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "DC Shoes",
       "discount": "-5% et -20%",
       "offerType": "Réduction",
       "description": "sur les chaussures, vêtements et accessoires",
       "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "Billabong",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/billabong?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -4078,21 +4078,21 @@
       "page": 1
     },
     {
-      "merchant": "Billabong",
-      "discount": "-5% et -20%",
-      "offerType": "Réduction",
-      "description": "sur les vêtements et accessoires",
-      "link": "https://www.macifavantages.fr/offres/billabong?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Sport & Bien Etre",
-      "page": 1
-    },
-    {
       "merchant": "DC Shoes",
       "discount": "-5% et -20%",
       "offerType": "Réduction",
       "description": "sur les chaussures, vêtements et accessoires",
       "link": "https://www.macifavantages.fr/offres/dc-shoes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Billabong",
+      "discount": "-5% et -20%",
+      "offerType": "Réduction",
+      "description": "sur les vêtements et accessoires",
+      "link": "https://www.macifavantages.fr/offres/billabong?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
