@@ -1698,21 +1698,21 @@
       "page": 1
     },
     {
-      "merchant": "GreenGo",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’une E-Carte Cadeau",
-      "link": "https://www.macifavantages.fr/offres/greengo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Vacances André Trigano",
       "discount": "-5% à -15%",
       "offerType": "Réduction",
       "description": "sur les campings",
       "link": "https://www.macifavantages.fr/offres/vacances-andr-trigano?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "GreenGo",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/greengo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1939,7 +1939,7 @@
     },
     {
       "merchant": "Bosch",
-      "discount": "-5% ou -25%",
+      "discount": "-5% à -25%",
       "offerType": "Réduction",
       "description": "sur les appareils électroménagers Bosch",
       "link": "https://www.macifavantages.fr/offres/bosch?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
@@ -2129,7 +2129,7 @@
     },
     {
       "merchant": "Siemens",
-      "discount": "-5% ou -25%",
+      "discount": "-5% à -25%",
       "offerType": "Réduction",
       "description": "sur les appareils électroménagers Siemens",
       "link": "https://www.macifavantages.fr/offres/siemens?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
@@ -2151,7 +2151,7 @@
       "merchant": "Kärcher",
       "discount": "-20%",
       "offerType": "Réduction",
-      "description": "sur la gamme “HOME & GARDEN”",
+      "description": "sur les nettoyeurs, aspirateurs, shampouineuses et outils de jardinage…",
       "link": "https://www.macifavantages.fr/offres/krcher?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
@@ -2708,6 +2708,16 @@
       "page": 1
     },
     {
+      "merchant": "Kärcher",
+      "discount": "-20%",
+      "offerType": "Réduction",
+      "description": "sur les nettoyeurs, aspirateurs, shampouineuses et outils de jardinage…",
+      "link": "https://www.macifavantages.fr/offres/krcher?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
       "merchant": "MonJardinBio",
       "discount": "-7%",
       "offerType": "Réduction",
@@ -2718,11 +2728,11 @@
       "page": 1
     },
     {
-      "merchant": "Kärcher",
-      "discount": "-20%",
+      "merchant": "Ausec",
+      "discount": "-25%",
       "offerType": "Réduction",
-      "description": "sur la gamme “HOME & GARDEN”",
-      "link": "https://www.macifavantages.fr/offres/krcher?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "description": "sur les produits anti-inondations",
+      "link": "https://www.macifavantages.fr/offres/ausec?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -2733,16 +2743,6 @@
       "offerType": "Réduction",
       "description": "sur les produits d’entretien ménager",
       "link": "https://www.macifavantages.fr/offres/mutyne?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
-      "merchant": "Ausec",
-      "discount": "-25%",
-      "offerType": "Réduction",
-      "description": "sur les produits anti-inondations",
-      "link": "https://www.macifavantages.fr/offres/ausec?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -3418,21 +3418,21 @@
       "page": 1
     },
     {
-      "merchant": "IRISÉ Paris",
-      "discount": "-15%",
-      "offerType": "Réduction",
-      "description": "sur le maquillage",
-      "link": "https://www.macifavantages.fr/offres/iris-paris?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Comme Avant",
       "discount": "-7%",
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/comme-avant?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "IRISÉ Paris",
+      "discount": "-15%",
+      "offerType": "Réduction",
+      "description": "sur le maquillage",
+      "link": "https://www.macifavantages.fr/offres/iris-paris?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
