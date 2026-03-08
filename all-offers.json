@@ -1178,21 +1178,21 @@
       "page": 1
     },
     {
-      "merchant": "Hurtigruten",
-      "discount": "-9%",
-      "offerType": "Réduction",
-      "description": "sur les croisières",
-      "link": "https://www.macifavantages.fr/offres/hurtigruten?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "CroisiEurope",
       "discount": "-9%",
       "offerType": "Réduction",
       "description": "sur les croisières",
       "link": "https://www.macifavantages.fr/offres/croisieurope?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Hurtigruten",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les croisières",
+      "link": "https://www.macifavantages.fr/offres/hurtigruten?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1288,21 +1288,21 @@
       "page": 1
     },
     {
-      "merchant": "CampingandCo",
-      "discount": "-8% ou -10%",
-      "offerType": "Réduction",
-      "description": "sur les hébergements",
-      "link": "https://www.macifavantages.fr/offres/campingandco?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Homair",
       "discount": "-5% à -15%",
       "offerType": "Réduction",
       "description": "sur les hébergements",
       "link": "https://www.macifavantages.fr/offres/homair?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "CampingandCo",
+      "discount": "-8% ou -10%",
+      "offerType": "Réduction",
+      "description": "sur les hébergements",
+      "link": "https://www.macifavantages.fr/offres/campingandco?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1378,21 +1378,21 @@
       "page": 1
     },
     {
-      "merchant": "TERRÉSENS",
-      "discount": "-8%",
-      "offerType": "Réduction",
-      "description": "sur les hébergements",
-      "link": "https://www.macifavantages.fr/offres/terrsens?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Odalys",
       "discount": "-8% ou -10%",
       "offerType": "Réduction",
       "description": "sur les séjours",
       "link": "https://www.macifavantages.fr/offres/odalys?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "TERRÉSENS",
+      "discount": "-8%",
+      "offerType": "Réduction",
+      "description": "sur les hébergements",
+      "link": "https://www.macifavantages.fr/offres/terrsens?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -2728,21 +2728,21 @@
       "page": 1
     },
     {
-      "merchant": "Ausec",
-      "discount": "-25%",
-      "offerType": "Réduction",
-      "description": "sur les produits anti-inondations",
-      "link": "https://www.macifavantages.fr/offres/ausec?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "Mutyne",
       "discount": "-15%",
       "offerType": "Réduction",
       "description": "sur les produits d’entretien ménager",
       "link": "https://www.macifavantages.fr/offres/mutyne?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Ausec",
+      "discount": "-25%",
+      "offerType": "Réduction",
+      "description": "sur les produits anti-inondations",
+      "link": "https://www.macifavantages.fr/offres/ausec?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -3123,16 +3123,6 @@
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/uma?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
-      "merchant": "Nike",
-      "discount": "6% et 10%",
-      "offerType": "Réduction",
-      "description": "remboursés sur les vêtements, chaussures et accessoires",
-      "link": "https://www.macifavantages.fr/offres/nike?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -4035,16 +4025,6 @@
       "link": "https://www.macifavantages.fr/offres/panafrica?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
-      "merchant": "Nike",
-      "discount": "6% et 10%",
-      "offerType": "Réduction",
-      "description": "remboursés sur les vêtements, chaussures et accessoires",
-      "link": "https://www.macifavantages.fr/offres/nike?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Sport & Bien Etre",
       "page": 1
     },
     {
