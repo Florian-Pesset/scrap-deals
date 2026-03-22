@@ -1598,21 +1598,21 @@
       "page": 1
     },
     {
-      "merchant": "Héliades",
-      "discount": "-9%",
-      "offerType": "Réduction",
-      "description": "sur les séjours",
-      "link": "https://www.macifavantages.fr/offres/hliades?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "Europcar Véhicule de tourisme",
       "discount": "-10% ou -20%",
       "offerType": "Réduction",
       "description": "sur les locations de voiture",
       "link": "https://www.macifavantages.fr/offres/europcar-vhicule-de-tourisme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Héliades",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les séjours",
+      "link": "https://www.macifavantages.fr/offres/hliades?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
