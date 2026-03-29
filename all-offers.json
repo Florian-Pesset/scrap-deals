@@ -1338,21 +1338,21 @@
       "page": 1
     },
     {
-      "merchant": "Villages Clubs du Soleil",
-      "discount": "-7% ou -10%",
-      "offerType": "Réduction",
-      "description": "sur les séjours",
-      "link": "https://www.macifavantages.fr/offres/villages-clubs-du-soleil?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages & Locations",
-      "page": 1
-    },
-    {
       "merchant": "lastminute.com",
       "discount": "-5% ou -6%",
       "offerType": "Réduction",
       "description": "sur les packages hôtel + vol ou hôtels seuls",
       "link": "https://www.macifavantages.fr/offres/lastminutecom?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Villages Clubs du Soleil",
+      "discount": "-7% ou -10%",
+      "offerType": "Réduction",
+      "description": "sur les séjours",
+      "link": "https://www.macifavantages.fr/offres/villages-clubs-du-soleil?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1988,21 +1988,21 @@
       "page": 1
     },
     {
-      "merchant": "Calor",
-      "discount": "-5% ou -15%",
-      "offerType": "Réduction",
-      "description": "sur les poêles, casseroles, ustensiles et l’électroménager",
-      "link": "https://www.macifavantages.fr/offres/calor?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Rowenta",
       "discount": "-5% ou -15%",
       "offerType": "Réduction",
       "description": "sur les aspirateurs, soin du linge, shampouineuses, nettoyeurs vapeur",
       "link": "https://www.macifavantages.fr/offres/rowenta?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Calor",
+      "discount": "-5% ou -15%",
+      "offerType": "Réduction",
+      "description": "sur les poêles, casseroles, ustensiles et l’électroménager",
+      "link": "https://www.macifavantages.fr/offres/calor?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2018,21 +2018,21 @@
       "page": 1
     },
     {
-      "merchant": "Krups",
-      "discount": "-5% ou -15%",
-      "offerType": "Réduction",
-      "description": "sur les machines à café et autres électroménagers",
-      "link": "https://www.macifavantages.fr/offres/krups?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech & Electroménager",
-      "page": 1
-    },
-    {
       "merchant": "Sony",
       "discount": "-10%",
       "offerType": "Réduction",
       "description": "sur une sélection d’appareils photo, téléviseurs, casques audio",
       "link": "https://www.macifavantages.fr/offres/sony?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech & Electroménager",
+      "page": 1
+    },
+    {
+      "merchant": "Krups",
+      "discount": "-5% ou -15%",
+      "offerType": "Réduction",
+      "description": "sur les machines à café et autres électroménagers",
+      "link": "https://www.macifavantages.fr/offres/krups?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech & Electroménager",
       "page": 1
@@ -2578,10 +2578,10 @@
       "page": 1
     },
     {
-      "merchant": "Tollens",
+      "merchant": "TOLLENS",
       "discount": "de -5% à -20%",
       "offerType": "Réduction",
-      "description": "sur les peintures Tollens en ligne et en magasin, même sur les promos",
+      "description": "sur les peintures TOLLENS en ligne et en magasin, même sur les promos",
       "link": "https://www.macifavantages.fr/offres/tollens?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
@@ -2628,10 +2628,10 @@
       "page": 1
     },
     {
-      "merchant": "Zolpan",
+      "merchant": "ZOLPAN",
       "discount": "-5% à -20%",
       "offerType": "Réduction",
-      "description": "sur les peintures Zolpan",
+      "description": "sur les peintures ZOLPAN",
       "link": "https://www.macifavantages.fr/offres/zolpan?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
@@ -2698,21 +2698,21 @@
       "page": 1
     },
     {
-      "merchant": "Stannah",
-      "discount": "-396€ TTC",
-      "offerType": "Réduction",
-      "description": "sur un monte-escaliers ou une plate-forme",
-      "link": "https://www.macifavantages.fr/offres/stannah?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "Kärcher",
       "discount": "-20%",
       "offerType": "Réduction",
       "description": "sur les nettoyeurs, aspirateurs, shampouineuses et outils de jardinage…",
       "link": "https://www.macifavantages.fr/offres/krcher?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Stannah",
+      "discount": "-396€ TTC",
+      "offerType": "Réduction",
+      "description": "sur un monte-escaliers ou une plate-forme",
+      "link": "https://www.macifavantages.fr/offres/stannah?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -2738,11 +2738,11 @@
       "page": 1
     },
     {
-      "merchant": "Ausec",
+      "merchant": "OBLOC",
       "discount": "-25%",
       "offerType": "Réduction",
       "description": "sur les produits anti-inondations",
-      "link": "https://www.macifavantages.fr/offres/ausec?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "link": "https://www.macifavantages.fr/offres/obloc?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
