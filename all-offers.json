@@ -1208,6 +1208,16 @@
       "page": 1
     },
     {
+      "merchant": "Jet tours",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les séjours",
+      "link": "https://www.macifavantages.fr/offres/jet-tours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
       "merchant": "Center Parcs",
       "discount": "-5%",
       "offerType": "Réduction",
@@ -1223,6 +1233,16 @@
       "offerType": "Réduction",
       "description": "sur les séjours",
       "link": "https://www.macifavantages.fr/offres/ucpa?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "CFC Croisières",
+      "discount": "-9%",
+      "offerType": "Réduction",
+      "description": "sur les croisières",
+      "link": "https://www.macifavantages.fr/offres/cfc-croisires?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -1613,6 +1633,16 @@
       "offerType": "Réduction",
       "description": "sur les séjours",
       "link": "https://www.macifavantages.fr/offres/hliades?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages & Locations",
+      "page": 1
+    },
+    {
+      "merchant": "Carbookr",
+      "discount": "-5% à -15%",
+      "offerType": "Réduction",
+      "description": "sur les locations de voiture",
+      "link": "https://www.macifavantages.fr/offres/carbookr?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages & Locations",
       "page": 1
@@ -2243,6 +2273,16 @@
       "offerType": "Réduction",
       "description": "sur les locations de voiture",
       "link": "https://www.macifavantages.fr/offres/europcar-vhicule-de-tourisme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Auto & Moto",
+      "page": 1
+    },
+    {
+      "merchant": "Carbookr",
+      "discount": "-5% à -15%",
+      "offerType": "Réduction",
+      "description": "sur les locations de voiture",
+      "link": "https://www.macifavantages.fr/offres/carbookr?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Auto & Moto",
       "page": 1
