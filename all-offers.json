@@ -3458,21 +3458,21 @@
       "page": 1
     },
     {
-      "merchant": "IRISÉ Paris",
-      "discount": "-15%",
-      "offerType": "Réduction",
-      "description": "sur le maquillage",
-      "link": "https://www.macifavantages.fr/offres/iris-paris?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Zèta",
       "discount": "-7%",
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/zta?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "IRISÉ Paris",
+      "discount": "-15%",
+      "offerType": "Réduction",
+      "description": "sur le maquillage",
+      "link": "https://www.macifavantages.fr/offres/iris-paris?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
