@@ -2578,11 +2578,11 @@
       "page": 1
     },
     {
-      "merchant": "Cuisinella",
+      "merchant": "Cuisinellà",
       "discount": "-10%",
       "offerType": "Réduction",
       "description": "sur les cuisines et aménagements sur-mesure",
-      "link": "https://www.macifavantages.fr/offres/cuisinella?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "link": "https://www.macifavantages.fr/offres/cuisinell?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -2768,21 +2768,21 @@
       "page": 1
     },
     {
-      "merchant": "Mutyne",
-      "discount": "-15%",
-      "offerType": "Réduction",
-      "description": "sur les produits d’entretien ménager",
-      "link": "https://www.macifavantages.fr/offres/mutyne?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Maison & Jardin",
-      "page": 1
-    },
-    {
       "merchant": "OBLOC",
       "discount": "-25%",
       "offerType": "Réduction",
       "description": "sur les produits anti-inondations",
       "link": "https://www.macifavantages.fr/offres/obloc?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Maison & Jardin",
+      "page": 1
+    },
+    {
+      "merchant": "Mutyne",
+      "discount": "-15%",
+      "offerType": "Réduction",
+      "description": "sur les produits d’entretien ménager",
+      "link": "https://www.macifavantages.fr/offres/mutyne?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Maison & Jardin",
       "page": 1
@@ -2893,6 +2893,16 @@
       "offerType": "Réduction",
       "description": "votre e-billet de cinéma",
       "link": "https://www.macifavantages.fr/offres/cinchque?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Culture & loisirs",
+      "page": 1
+    },
+    {
+      "merchant": "Nature & Découvertes",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/nature--dcouvertes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Culture & loisirs",
       "page": 1
@@ -3053,6 +3063,16 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/monoprix?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Alimentation & vins",
+      "page": 1
+    },
+    {
+      "merchant": "Naturalia",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/naturalia?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Alimentation & vins",
       "page": 1
@@ -3268,6 +3288,26 @@
       "page": 1
     },
     {
+      "merchant": "Naturalia",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/naturalia?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "C&A",
+      "discount": "-11%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/ca?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
       "merchant": "Marionnaud",
       "discount": "-10%",
       "offerType": "Réduction",
@@ -3368,21 +3408,21 @@
       "page": 1
     },
     {
-      "merchant": "3SUISSES",
-      "discount": "-10%",
-      "offerType": "Réduction",
-      "description": "sur la Mode, Maison & Déco",
-      "link": "https://www.macifavantages.fr/offres/3suisses?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "Spartoo",
       "discount": "-15%",
       "offerType": "Réduction",
       "description": "sur les chaussures, sacs et vêtements",
       "link": "https://www.macifavantages.fr/offres/spartoo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "3SUISSES",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur la Mode, Maison & Déco",
+      "link": "https://www.macifavantages.fr/offres/3suisses?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3458,21 +3498,21 @@
       "page": 1
     },
     {
-      "merchant": "IRISÉ Paris",
-      "discount": "-15%",
-      "offerType": "Réduction",
-      "description": "sur le maquillage",
-      "link": "https://www.macifavantages.fr/offres/iris-paris?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mode & beauté",
-      "page": 1
-    },
-    {
       "merchant": "The Trust Society",
       "discount": "-5%",
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/the-trust-society?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mode & beauté",
+      "page": 1
+    },
+    {
+      "merchant": "IRISÉ Paris",
+      "discount": "-15%",
+      "offerType": "Réduction",
+      "description": "sur le maquillage",
+      "link": "https://www.macifavantages.fr/offres/iris-paris?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mode & beauté",
       "page": 1
@@ -3688,21 +3728,21 @@
       "page": 1
     },
     {
-      "merchant": "Jacadi",
-      "discount": "-12%",
-      "offerType": "Réduction",
-      "description": "sur un bon d’achat",
-      "link": "https://www.macifavantages.fr/offres/jacadi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "IKEA",
       "discount": "-4%",
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/ikea?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Jacadi",
+      "discount": "-12%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/jacadi?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -3753,6 +3793,36 @@
       "offerType": "Réduction",
       "description": "sur un bon d’achat",
       "link": "https://www.macifavantages.fr/offres/maisons-du-monde?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Nature & Découvertes",
+      "discount": "-10%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/nature--dcouvertes?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "Naturalia",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/naturalia?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "C&A",
+      "discount": "-11%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/ca?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -3938,21 +4008,21 @@
       "page": 1
     },
     {
-      "merchant": "éthi'Kdo",
-      "discount": "-5%",
-      "offerType": "Réduction",
-      "description": "sur l’achat d’une E-Carte Cadeau",
-      "link": "https://www.macifavantages.fr/offres/thikdo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Plaisir d’offrir",
-      "page": 1
-    },
-    {
       "merchant": "Comme Avant",
       "discount": "-7%",
       "offerType": "Réduction",
       "description": "sur l’achat d’une E-Carte Cadeau",
       "link": "https://www.macifavantages.fr/offres/comme-avant?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Plaisir d’offrir",
+      "page": 1
+    },
+    {
+      "merchant": "éthi'Kdo",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur l’achat d’une E-Carte Cadeau",
+      "link": "https://www.macifavantages.fr/offres/thikdo?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Plaisir d’offrir",
       "page": 1
@@ -4133,6 +4203,16 @@
       "offerType": "Réduction",
       "description": "sur la location de matériel de ski",
       "link": "https://www.macifavantages.fr/offres/skimium?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Sport & Bien Etre",
+      "page": 1
+    },
+    {
+      "merchant": "Naturalia",
+      "discount": "-5%",
+      "offerType": "Réduction",
+      "description": "sur un bon d’achat",
+      "link": "https://www.macifavantages.fr/offres/naturalia?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Sport & Bien Etre",
       "page": 1
