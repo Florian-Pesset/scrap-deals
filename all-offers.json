@@ -1188,21 +1188,21 @@
       "page": 1
     },
     {
-      "merchant": "Hurtigruten",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/hurtigruten?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
       "merchant": "Promoséjours",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/promosjours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages",
+      "page": 1
+    },
+    {
+      "merchant": "Hurtigruten",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/hurtigruten?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages",
       "page": 1
@@ -2668,16 +2668,6 @@
       "page": 1
     },
     {
-      "merchant": "Comme Avant",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/comme-avant?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Avantages engagés",
-      "page": 1
-    },
-    {
       "merchant": "éthi'Kdo",
       "discount": "",
       "offerType": "Réduction",
@@ -2693,6 +2683,16 @@
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/zta?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Avantages engagés",
+      "page": 1
+    },
+    {
+      "merchant": "Comme Avant",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/comme-avant?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Avantages engagés",
       "page": 1
