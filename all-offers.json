@@ -1288,6 +1288,16 @@
       "page": 1
     },
     {
+      "merchant": "IMAWAY",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/imaway?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages",
+      "page": 1
+    },
+    {
       "merchant": "Belambra",
       "discount": "",
       "offerType": "Réduction",
@@ -1318,21 +1328,21 @@
       "page": 1
     },
     {
-      "merchant": "Maeva",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/maeva?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
       "merchant": "CampingandCo",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/campingandco?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages",
+      "page": 1
+    },
+    {
+      "merchant": "Maeva",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/maeva?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages",
       "page": 1
@@ -2248,21 +2258,21 @@
       "page": 1
     },
     {
-      "merchant": "Sony",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/sony?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech",
-      "page": 1
-    },
-    {
       "merchant": "Krups",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/krups?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech",
+      "page": 1
+    },
+    {
+      "merchant": "Sony",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/sony?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech",
       "page": 1
