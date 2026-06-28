@@ -1288,16 +1288,6 @@
       "page": 1
     },
     {
-      "merchant": "IMAWAY",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/imaway?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
       "merchant": "Belambra",
       "discount": "",
       "offerType": "Réduction",
@@ -1398,21 +1388,21 @@
       "page": 1
     },
     {
-      "merchant": "MMV",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/mmv?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
       "merchant": "Odalys",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/odalys?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages",
+      "page": 1
+    },
+    {
+      "merchant": "MMV",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/mmv?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages",
       "page": 1
@@ -1658,21 +1648,21 @@
       "page": 1
     },
     {
-      "merchant": "Coyote Secure",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/coyote-secure?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
       "merchant": "Decathlon",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/decathlon?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages",
+      "page": 1
+    },
+    {
+      "merchant": "Coyote Secure",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/coyote-secure?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages",
       "page": 1
@@ -2178,6 +2168,16 @@
       "page": 1
     },
     {
+      "merchant": "HP",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/hp?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech",
+      "page": 1
+    },
+    {
       "merchant": "Bosch",
       "discount": "",
       "offerType": "Réduction",
@@ -2313,16 +2313,6 @@
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/kenwood?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech",
-      "page": 1
-    },
-    {
-      "merchant": "HP",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/hp?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech",
       "page": 1
