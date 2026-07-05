@@ -1168,21 +1168,21 @@
       "page": 1
     },
     {
-      "merchant": "Directours",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/directours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
       "merchant": "Promoséjours",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/promosjours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages",
+      "page": 1
+    },
+    {
+      "merchant": "Directours",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/directours?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages",
       "page": 1
@@ -1608,21 +1608,21 @@
       "page": 1
     },
     {
-      "merchant": "Go Voyages",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/go-voyages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
       "merchant": "Europcar Véhicule de tourisme",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/europcar-vhicule-de-tourisme?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages",
+      "page": 1
+    },
+    {
+      "merchant": "Go Voyages",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/go-voyages?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages",
       "page": 1
@@ -1788,21 +1788,21 @@
       "page": 1
     },
     {
-      "merchant": "eDreams",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/edreams?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
       "merchant": "Alamo, Enterprise, National",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/alamo-enterprise-national?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages",
+      "page": 1
+    },
+    {
+      "merchant": "eDreams",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/edreams?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Voyages",
       "page": 1
@@ -2168,21 +2168,21 @@
       "page": 1
     },
     {
-      "merchant": "HP",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/hp?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech",
-      "page": 1
-    },
-    {
       "merchant": "Bosch",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/bosch?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech",
+      "page": 1
+    },
+    {
+      "merchant": "HP",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/hp?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech",
       "page": 1
@@ -2258,21 +2258,21 @@
       "page": 1
     },
     {
-      "merchant": "Krups",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/krups?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech",
-      "page": 1
-    },
-    {
       "merchant": "Sony",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/sony?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech",
+      "page": 1
+    },
+    {
+      "merchant": "Krups",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/krups?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech",
       "page": 1
@@ -2588,21 +2588,21 @@
       "page": 1
     },
     {
-      "merchant": "Label Emmaüs",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/label-emmas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Avantages engagés",
-      "page": 1
-    },
-    {
       "merchant": "Epeda",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/epeda?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Avantages engagés",
+      "page": 1
+    },
+    {
+      "merchant": "Label Emmaüs",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/label-emmas?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Avantages engagés",
       "page": 1
