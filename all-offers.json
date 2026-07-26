@@ -1918,6 +1918,16 @@
       "page": 1
     },
     {
+      "merchant": "IMAWAY",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/imaway?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Voyages",
+      "page": 1
+    },
+    {
       "merchant": "Surplus Motos",
       "discount": "",
       "offerType": "Réduction",
@@ -1998,21 +2008,21 @@
       "page": 1
     },
     {
-      "merchant": "In&motion",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/inmotion?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Mobilités",
-      "page": 1
-    },
-    {
       "merchant": "Europcar Véhicule utilitaire",
       "discount": "",
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/europcar-vhicule-utilitaire?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "Mobilités",
+      "page": 1
+    },
+    {
+      "merchant": "In&motion",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/inmotion?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "Mobilités",
       "page": 1
@@ -2183,6 +2193,16 @@
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/bosch?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech",
+      "page": 1
+    },
+    {
+      "merchant": "Whirlpool",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/whirlpool?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech",
       "page": 1
