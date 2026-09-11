@@ -1,6 +1,8 @@
 const { JSDOM } = require('jsdom');
 const fs = require('fs');
 const fetch = require('node-fetch');
+const { enrichCatalog } = require('./match-offer');
+const merchantDomains = require('./merchant-domains');
 
 // Scrape all Macif offers by iterating through all categories and paginated pages
 async function scrapeMacifAvantages() {
@@ -202,11 +204,10 @@ async function scrapeAllSources() {
     const boursoOffers = await scrapeBoursoramaFromParraineo();
     console.log(`${boursoOffers.length} Boursorama offers found`);
 
-    // Organize the data as required
-    const result = {
+    const result = enrichCatalog({
       boursobank: boursoOffers,
       macif: macifOffers
-    };
+    }, merchantDomains);
 
     // Save the results
     fs.writeFileSync(
