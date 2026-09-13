@@ -1668,26 +1668,6 @@
       "page": 1
     },
     {
-      "merchant": "Coyote Secure",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/coyote-secure?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
-      "merchant": "Q-Park",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/q-park?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "Voyages",
-      "page": 1
-    },
-    {
       "merchant": "Adagio",
       "discount": "",
       "offerType": "Réduction",
@@ -2158,16 +2138,6 @@
       "page": 1
     },
     {
-      "merchant": "Fnac",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/fnac?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech",
-      "page": 1
-    },
-    {
       "merchant": "Samsung",
       "discount": "",
       "offerType": "Réduction",
@@ -2193,16 +2163,6 @@
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/showroomprive?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
-      "source": "macif",
-      "category": "High-Tech",
-      "page": 1
-    },
-    {
-      "merchant": "Darty",
-      "discount": "",
-      "offerType": "Réduction",
-      "description": "",
-      "link": "https://www.macifavantages.fr/offres/darty?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech",
       "page": 1
@@ -2483,6 +2443,26 @@
       "offerType": "Réduction",
       "description": "",
       "link": "https://www.macifavantages.fr/offres/nutribullet?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech",
+      "page": 1
+    },
+    {
+      "merchant": "Fnac",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/fnac?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
+      "source": "macif",
+      "category": "High-Tech",
+      "page": 1
+    },
+    {
+      "merchant": "Darty",
+      "discount": "",
+      "offerType": "Réduction",
+      "description": "",
+      "link": "https://www.macifavantages.fr/offres/darty?utm_source=deals-finder&utm_medium=extension&utm_campaign=affiliate",
       "source": "macif",
       "category": "High-Tech",
       "page": 1
