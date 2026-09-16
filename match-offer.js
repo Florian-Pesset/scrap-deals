@@ -86,6 +86,7 @@
       for (const offer of data[provider]) {
         if (!isMerchantEnabled(offer.merchant, enabledMerchants)) continue;
         if (!matchesOffer(hostname, offer)) continue;
+        if (!String(offer.discount || "").trim()) continue;
         detected.push({ ...offer, provider });
       }
     }
