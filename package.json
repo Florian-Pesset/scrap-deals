@@ -4,7 +4,8 @@
   "description": "Scraper pour extraire les partenaires The Corner de Boursobank",
   "main": "scraper.js",
   "scripts": {
-    "start": "node scraper.js"
+    "start": "node scraper.js",
+    "test": "node --test scrape-the-corner.test.js"
   },
   "keywords": [],
   "author": "",
