@@ -1234,24 +1234,14 @@
       ]
     },
     {
-      "merchant": "Maison du Monde",
-      "discount": "The Corner",
-      "offerType": "Avantage The Corner",
-      "link": "https://www.boursobank.com/bon-plan/the-corner",
-      "source": "boursobank",
-      "sources": [
-        "detective-banque"
-      ],
-      "domains": []
-    },
-    {
       "merchant": "Maisons du Monde",
       "discount": "-8%*",
       "offerType": "Bon d'achat",
       "link": "https://www.boursobank.com/bon-plan/the-corner",
       "source": "boursobank",
       "sources": [
-        "parraineo"
+        "parraineo",
+        "detective-banque"
       ],
       "domains": [
         "maisonsdumonde.com"
