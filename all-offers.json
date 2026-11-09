@@ -80,7 +80,8 @@
       "link": "https://www.boursobank.com/bon-plan/the-corner",
       "source": "boursobank",
       "sources": [
-        "parraineo"
+        "parraineo",
+        "boursobank-officiel"
       ],
       "domains": [
         "alpiq.com"
